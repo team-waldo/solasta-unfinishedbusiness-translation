@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "UI/&Add"
+msgid "Add"
+msgstr ""
+
+msgctxt "UI/&Current Party"
+msgid "Current Party"
+msgstr ""
+
+msgctxt "UI/&Experimental Preview:"
+msgid ""
+"Experimental Preview <i><color=Yellow>[backup save before using]</color></i>:"
+" "
+msgstr ""
+
+msgctxt "UI/&Expert"
+msgid "Expert"
+msgstr ""
+
+msgctxt "UI/&PartyEditor"
+msgid "Party Editor"
+msgstr ""
+
+msgctxt "UI/&PartyEditorMessage"
+msgid ""
+"This simple party editor lets you edit characters in a loaded game session. "
+"Please click on the following to report issues:"
+msgstr ""
+
+msgctxt "UI/&PartyEditorUnavailable"
+msgid "****** Party Editor unavailable: Please load a save game ******"
+msgstr ""
+
+msgctxt "UI/&Quickies"
+msgid "Quickies"
+msgstr ""
+
+msgctxt "UI/&Remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "UI/&Skilled"
+msgid "Skilled"
+msgstr ""

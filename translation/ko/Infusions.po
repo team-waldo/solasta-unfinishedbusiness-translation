@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Feature/&AdditionalDamageInfusionMajorElementalDescription"
+msgid "Attacks made with this weapon deal an additional 1d4 {0} damage."
+msgstr ""
+
+msgctxt "Feature/&AdditionalDamageInfusionMajorElementalTitle"
+msgid "Major Elemental [{0}]"
+msgstr ""
+
+msgctxt "Feature/&AdditionalDamageInfusionMinorElementalDescription"
+msgid ""
+"Once per turn, when you hit a creature with this weapon, deal an additional "
+"1d6 {0} damage. This damage increases to 2D6 at level 9th and 3D6 at level "
+"15th."
+msgstr ""
+
+msgctxt "Feature/&AdditionalDamageInfusionMinorElementalTitle"
+msgid "Minor Elemental [{0}]"
+msgstr ""
+
+msgctxt "Feature/&InfusionBloodyDescription"
+msgid ""
+"Once per turn, when you hit with an attack with this weapon, that meet the "
+"same requirements as sneak attacks, deal an additional 2d6 damage.\\n"
+"Only one additional damage infusion can be active per weapon."
+msgstr ""
+
+msgctxt "Feature/&InfusionBloodyTitle"
+msgid "Bloody"
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceArcaneFocusDescription"
+msgid ""
+"Infuse staff or a spell focus to grant +1 to spell attack rolls and DC.\\n"
+"The bonus increases to +2 when you reach level 10 of Inventor class."
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceArcaneFocusTitle"
+msgid "Enhance Focus"
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceDefenseDescription"
+msgid ""
+"Infuse armor or shield to grant a +1 to armor class.\\n"
+"The bonus increases to +2 when you reach level 10 of Inventor class."
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceDefenseTitle"
+msgid "Enhance Defense"
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceWeaponDescription"
+msgid ""
+"Infuse weapon to grant +1 to attack and damage rolls.\\n"
+"The bonus increases to +2 when you reach level 10 of Inventor class. Will "
+"replace Repeating Shot or Returning Weapon infusion on weapon it is applied "
+"to."
+msgstr ""
+
+msgctxt "Feature/&InfusionEnhanceWeaponTitle"
+msgid "Enhance Weapon"
+msgstr ""
+
+msgctxt "Feature/&InfusionMajorElementalDescription"
+msgid ""
+"Attacks made with this weapon deal an additional 1d4 damage of the selected "
+"type. Only one additional damage infusion can be active per weapon."
+msgstr ""
+
+msgctxt "Feature/&InfusionMajorElementalTitle"
+msgid "Major Elemental"
+msgstr ""
+
+msgctxt "Feature/&InfusionMindSharpenerDescription"
+msgid ""
+"Infuse body armor or clothes to provide advantage on rolls to maintain "
+"concentration and not require rolls if damage taken is 10 or less."
+msgstr ""
+
+msgctxt "Feature/&InfusionMindSharpenerTitle"
+msgid "Mind Sharpener"
+msgstr ""
+
+msgctxt "Feature/&InfusionMinorElementalDescription"
+msgid ""
+"Once per turn, when you hit a creature with this weapon, deal an additional "
+"1d6 damage of the selected type. This damage increases to 2d6 at level 10. "
+"Only one additional damage infusion can be active per weapon."
+msgstr ""
+
+msgctxt "Feature/&InfusionMinorElementalTitle"
+msgid "Minor Elemental"
+msgstr ""
+
+msgctxt "Feature/&InfusionRepeatingShotDescription"
+msgid ""
+"Infuse weapon that has Loading property to ignore that property and also not "
+"spend ammunition. If weapon was not magical it becomes magical and receives +"
+"1 bonus to attack and damage rolls made with it. Will replace Enhance Weapon "
+"infusion on weapon it is applied to."
+msgstr ""
+
+msgctxt "Feature/&InfusionRepeatingShotTitle"
+msgid "Repeating Shot"
+msgstr ""
+
+msgctxt "Feature/&InfusionResistantArmorDescription"
+msgid "Infuse armor with resistance to one of the elemental damage types."
+msgstr ""
+
+msgctxt "Feature/&InfusionResistantArmorTitle"
+msgid "Resistant Armor"
+msgstr ""
+
+msgctxt "Feature/&InfusionReturningWeaponDescription"
+msgid ""
+"Infuse thrown weapon to return to the wielder's hand immediately after it is "
+"used to make a ranged attack. If weapon was not magical it becomes magical "
+"and receives +1 bonus to attack and damage rolls made with it. Will replace "
+"Enhance Weapon infusion on weapon it is applied to."
+msgstr ""
+
+msgctxt "Feature/&InfusionReturningWeaponTitle"
+msgid "Returning Weapon"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearn2Description"
+msgid "Select 2 new infusions to learn."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearn2Title"
+msgid "Learn Infusion"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearn4Description"
+msgid "Select 4 new infusions to learn."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearn4Title"
+msgid "Learn Infusion"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearnDescription"
+msgid "Select new infusion to learn."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionLearnTitle"
+msgid "Learn Infusion"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionUnlearnDescription"
+msgid "Select known Infusion to replace."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolInfusionUnlearnTitle"
+msgid "Unlearn Infusion"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionBloodyFormat"
+msgid "Bloody Attack!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionBloodyLine"
+msgid "{0} performs a bloody attack on {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionMajorElementalFormat"
+msgid "Major Elemental Attack!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionMajorElementalLine"
+msgid "{0} performs a major elemental attack on {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionMinorElementalFormat"
+msgid "Minor Elemental Attack!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageInfusionMinorElementalLine"
+msgid "{0} performs a minor elemental attack on {1} (+{2})"
+msgstr ""
+
+msgctxt "Item/&ReplicaItemFormatDescription"
+msgid ""
+"Create replica <b>{0}</b>:\\n"
+"{1}"
+msgstr ""
+
+msgctxt "Item/&ReplicaItemFormatTitle"
+msgid "Replica {0}"
+msgstr ""
+
+msgctxt "Screen/&InvocationPoolInfusionHeader"
+msgid "Infusions"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeInfusion"
+msgid "Infusio"
+msgstr ""

@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Condition/&ConditionAbilityImpDescription"
+msgid ""
+"Gain invisibility, you may attack and cast spells without losing "
+"invisibility."
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilityImpTitle"
+msgid "Imp's Ability"
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilityPseudoDescription"
+msgid ""
+"Gain the ability to fly and imbue your attacks with poison that restrains."
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilityPseudoTitle"
+msgid "Pseudo Dragon's Ability"
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilityQuasitDescription"
+msgid ""
+"Gain an additional main attack and advantage on Dexterity saving throws."
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilityQuasitTitle"
+msgid "Qausit's Ability"
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilitySpriteDescription"
+msgid ""
+"Gain an armor class score of at least 16 and attackers have a disadvantage "
+"when targeting you."
+msgstr ""
+
+msgctxt "Condition/&ConditionAbilitySpriteTitle"
+msgid "Sprite's Ability"
+msgstr ""
+
+msgctxt "Feature/&AttackModifierHitAndDamagePlus1Description"
+msgid "The weapon gains a +1 bonus to its attack and damage rolls."
+msgstr ""
+
+msgctxt "Feature/&AttackModifierHitAndDamagePlus1Title"
+msgid "Pact Weapon Enhancement"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageEldritchSmiteFormat"
+msgid "Eldritch Smite!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageEldritchSmiteLine"
+msgid "{0} smites {1} (+{2})"
+msgstr ""
+
+msgctxt "Invocation/&InvocationAbilitiesOfTheChainMasterDescription"
+msgid ""
+"Gain additional effects when bound to a creature. When bound to Imp gain "
+"greater invisibility, when bound to Pseudo Dragon gain flight and attacks "
+"imbued with poison, when bound to Quasit gain an additional main action and "
+"advantage on Dexterity saving throws, and when bound to Sprite get an armor "
+"class score of at least 16 and attackers have disadvantage against you."
+msgstr ""
+
+msgctxt "Invocation/&InvocationAbilitiesOfTheChainMasterTitle"
+msgid "Abilities of the Chain Master"
+msgstr ""
+
+msgctxt "Invocation/&InvocationAspectOfTheMoonDescription"
+msgid ""
+"You no longer need to sleep and can keep watch, lowering the chances of "
+"attack and ensuring you are awake if camp is attacked."
+msgstr ""
+
+msgctxt "Invocation/&InvocationAspectOfTheMoonTitle"
+msgid "Aspect of the Moon"
+msgstr ""
+
+msgctxt "Invocation/&InvocationBondOfTheTalismanDescription"
+msgid ""
+"You can use Bonus Action to teleport up to 30 ft away to an unoccupied space "
+"you can see."
+msgstr ""
+
+msgctxt "Invocation/&InvocationBondOfTheTalismanTitle"
+msgid "Eldritch Step"
+msgstr ""
+
+msgctxt "Invocation/&InvocationBreakerAndBanisherDescription"
+msgid ""
+"You can cast <b>Dispel Evil and Good</b> using your pact slot once per long "
+"rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationBreakerAndBanisherTitle"
+msgid "Breaker and Banisher"
+msgstr ""
+
+msgctxt "Invocation/&InvocationBreathOfTheNightDescription"
+msgid "You can cast <b>Fog Cloud</b> at will, without expending a spell slot."
+msgstr ""
+
+msgctxt "Invocation/&InvocationBreathOfTheNightTitle"
+msgid "Breath of the Night"
+msgstr ""
+
+msgctxt "Invocation/&InvocationCallOfTheBeastDescription"
+msgid ""
+"You can cast <b>Conjure Animals</b> using your pact slot once per long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationCallOfTheBeastTitle"
+msgid "Call of the Beast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationChillingBlastDescription"
+msgid ""
+"You can change the damage type of the eldritch blast to cold damage instead "
+"of force damage."
+msgstr ""
+
+msgctxt "Invocation/&InvocationChillingBlastTitle"
+msgid "Chilling Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationCorrosiveBlastDescription"
+msgid ""
+"You can change the damage type of the eldritch blast to acid damage instead "
+"of force damage."
+msgstr ""
+
+msgctxt "Invocation/&InvocationCorrosiveBlastTitle"
+msgid "Corrosive Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationDiscerningGazeDescription"
+msgid ""
+"You can cast <b>Detect Evil and Good</b> without using a spell slot. Once "
+"you do so, you can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationDiscerningGazeTitle"
+msgid "Discerning Gaze"
+msgstr ""
+
+msgctxt "Invocation/&InvocationEldritchMindDescription"
+msgid ""
+"You have advantage on Constitution saving throws that you make to maintain "
+"your concentration on a spell."
+msgstr ""
+
+msgctxt "Invocation/&InvocationEldritchMindTitle"
+msgid "Eldritch Mind"
+msgstr ""
+
+msgctxt "Invocation/&InvocationEldritchSmiteDescription"
+msgid ""
+"Once per turn when you hit a creature with your weapon, you can expend a "
+"Warlock spell slot to deal an extra 1d8 force damage to the target, plus "
+"another 1d8 per level of the spell slot."
+msgstr ""
+
+msgctxt "Invocation/&InvocationEldritchSmiteTitle"
+msgid "Eldritch Smite"
+msgstr ""
+
+msgctxt "Invocation/&InvocationFieryBlastDescription"
+msgid ""
+"You can change the damage type of the eldritch blast to fire damage instead "
+"of force damage."
+msgstr ""
+
+msgctxt "Invocation/&InvocationFieryBlastTitle"
+msgid "Fiery Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationFulminateBlastDescription"
+msgid ""
+"You can change the damage type of the eldritch blast to lightning damage "
+"instead of force damage."
+msgstr ""
+
+msgctxt "Invocation/&InvocationFulminateBlastTitle"
+msgid "Fulminate Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheEverLivingOnesDescription"
+msgid "Regains the maximum number of hit points possible from any healing."
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheEverLivingOnesTitle"
+msgid "Gift of the Ever-Living Ones"
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheHunterDescription"
+msgid ""
+"You can cast <b>Pass Without Trace</b> without using a spell slot. Once you "
+"do so, you can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheHunterTitle"
+msgid "Gift of the Hunter"
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheProtectorsDescription"
+msgid ""
+"When you are reduced to 0 HP but not killed, you can drop to 1 HP instead."
+msgstr ""
+
+msgctxt "Invocation/&InvocationGiftOfTheProtectorsTitle"
+msgid "Gift of the Protectors"
+msgstr ""
+
+msgctxt "Invocation/&InvocationGraspingBlastDescription"
+msgid ""
+"When you hit a creature with Eldritch Blast, you can pull the creature up to "
+"10 ft towards you in a straight line."
+msgstr ""
+
+msgctxt "Invocation/&InvocationGraspingBlastTitle"
+msgid "Grasping Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationHinderingBlastDescription"
+msgid ""
+"When you hit a creature with your eldritch blast, you can reduce that "
+"creature's speed by 10 ft until the end of your next turn."
+msgstr ""
+
+msgctxt "Invocation/&InvocationHinderingBlastTitle"
+msgid "Hindering Blast"
+msgstr ""
+
+msgctxt "Invocation/&InvocationImprovedPactWeaponDescription"
+msgid "Your weapon gains a +1 bonus to its attack and damage rolls."
+msgstr ""
+
+msgctxt "Invocation/&InvocationImprovedPactWeaponTitle"
+msgid "Improved Pact Weapon"
+msgstr ""
+
+msgctxt "Invocation/&InvocationKinesisDescription"
+msgid ""
+"You can cast <b>Haste</b> without using a spell slot. When casting using "
+"this ability you can target one additional creature. Once you do so, you "
+"can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationKinesisTitle"
+msgid "Kinesis"
+msgstr ""
+
+msgctxt "Invocation/&InvocationShroudOfShadowDescription"
+msgid ""
+"You can cast <b>Invisibility</b> at will, without expending a spell slot."
+msgstr ""
+
+msgctxt "Invocation/&InvocationShroudOfShadowTitle"
+msgid "Shroud of Shadow"
+msgstr ""
+
+msgctxt "Invocation/&InvocationSpectralShieldDescription"
+msgid ""
+"You can cast <b>Shield of Faith</b> without using a spell slot. Once you do "
+"so, you can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationSpectralShieldTitle"
+msgid "Spectral Shield"
+msgstr ""
+
+msgctxt "Invocation/&InvocationStasisDescription"
+msgid ""
+"You can cast <b>Slow</b> without using a spell slot. When casting using this "
+"ability you don't need to maintain concentration. Once you do so, you can't "
+"cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationStasisTitle"
+msgid "Stasis"
+msgstr ""
+
+msgctxt "Invocation/&InvocationSuperiorPactWeaponDescription"
+msgid "Your weapon gains a +1 bonus to its attack and damage rolls."
+msgstr ""
+
+msgctxt "Invocation/&InvocationSuperiorPactWeaponTitle"
+msgid "Superior Pact Weapon"
+msgstr ""
+
+msgctxt "Invocation/&InvocationTenaciousPlagueDescription"
+msgid ""
+"You can cast <b>Insect Plague</b> using your pact slot once per long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationTenaciousPlagueTitle"
+msgid "Tenacious Plague"
+msgstr ""
+
+msgctxt "Invocation/&InvocationTrickstersEscapeDescription"
+msgid ""
+"You can cast <b>Freedom of Movement</b> without using a spell slot. Once you "
+"do so, you can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationTrickstersEscapeTitle"
+msgid "Trickster's Escape"
+msgstr ""
+
+msgctxt "Invocation/&InvocationUltimatePactWeaponDescription"
+msgid "Your weapon gains a +1 bonus to its attack and damage rolls."
+msgstr ""
+
+msgctxt "Invocation/&InvocationUltimatePactWeaponTitle"
+msgid "Ultimate Pact Weapon"
+msgstr ""
+
+msgctxt "Invocation/&InvocationUndyingServitudeDescription"
+msgid ""
+"You can cast <b>{0}</b> without using a spell slot. Once you do so, you "
+"can't cast it in this way again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&InvocationUndyingServitudeTitle"
+msgid "Undying Servitude"
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlotEldritchSmiteDescription"
+msgid ""
+"{0} can spend spell slot to deal 1d8 force damage and an additional 1d8 "
+"damage per slot level to the target."
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlotEldritchSmiteReactDescription"
+msgid "Click to spend a spell slot and increase damage to the target."
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlotEldritchSmiteReactTitle"
+msgid "Smite"
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlotEldritchSmiteTitle"
+msgid "Eldritch Smite"
+msgstr ""
+
+msgctxt "Reaction/&SubitemSelectEldritchSmiteTitle"
+msgid "Slot Leve"
+msgstr ""

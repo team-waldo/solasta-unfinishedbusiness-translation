@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Background/&PointPoolBackgroundSkillSelect2Description"
+msgid "Select 2 skill proficiencies."
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundSkillSelect2Title"
+msgid "Skills"
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundSkillSelect3Description"
+msgid "Select 3 skill proficiencies."
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundSkillSelect3Title"
+msgid "Skills"
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundToolSelect2Description"
+msgid "Select 2 tool proficiencies."
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundToolSelect2Title"
+msgid "Tools"
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundToolSelectDescription"
+msgid "Select a tool proficiency."
+msgstr ""
+
+msgctxt "Background/&PointPoolBackgroundToolSelectTitle"
+msgid "Tool"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAcademicBackgroundDescription"
+msgid "Arcana, Nature, and Insight."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAcademicBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAcolyteBackgroundDescription"
+msgid "Religion, Nature, and Insight."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAcolyteBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAesceticBackgroundDescription"
+msgid "Survival and Insight."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAesceticBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAristocratBackgroundDescription"
+msgid "History, Persuasion, and Intimidation."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsAristocratBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsArtistBackgroundDescription"
+msgid "Deception, Persuasion and Performance."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsArtistBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsFarmerBackgroundDescription"
+msgid "Animal Handling, Nature and Perception."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsFarmerBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsLawkeeperBackgroundDescription"
+msgid "Perception and Intimidation."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsLawkeeperBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsLowlifeBackgroundDescription"
+msgid "Sleight of Hand, Stealth, and Deception."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsLowlifeBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsOccultistBackgroundDescription"
+msgid "Arcana and Deception."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsOccultistBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsPhilosopherBackgroundDescription"
+msgid "Medicine and Persuasion."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsPhilosopherBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsSellswordBackgroundDescription"
+msgid "Athletics and Intimidation."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsSellswordBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsSpyBackgroundDescription"
+msgid "Stealth, Deception, and Nature."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsSpyBackgroundTitle"
+msgid "Suggested Skills"
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsWandererBackgroundDescription"
+msgid "Survival and Nature."
+msgstr ""
+
+msgctxt "Background/&SuggestedSkillsWandererBackgroundTitle"
+msgid "Suggested Skill"
+msgstr ""

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Failure/&FailureFlagSpellMustBeOfTargetArea"
+msgid "The spell must have a cone, cube, cylinder or sphere area of effect"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagSpellMustHaveDamageForm"
+msgid "The spell must have at least one damage form"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagSpellMustRequireConcentration"
+msgid "The spell must require concentration"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagSpellRangeMustBeSelf"
+msgid "The spell range must be self"
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellAllyDescription"
+msgid "Make spell to target an ally within 30ft instead of self."
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellAllyTitle"
+msgid "Shared Spell, Ally Only"
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellDescription"
+msgid ""
+"When you cast a spell targeting yourself you can spend 1 sorcery point to "
+"instead affect an ally within 30 ft. Or you can spend 3 sorcery points to "
+"affect both yourself and ally in 30ft."
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellSelfDescription"
+msgid "Make spell to target an ally within 30 ft in addition to self."
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellSelfTitle"
+msgid "Shared Spell, Ally + Self"
+msgstr ""
+
+msgctxt "Feature/&MetamagicAltruisticSpellTitle"
+msgid "Shared Spell"
+msgstr ""
+
+msgctxt "Feature/&MetamagicFocusedSpellDescription"
+msgid ""
+"When you cast a spell that requires concentration, you may spend 1 sorcery "
+"point to gain advantage on all Constitution saving throws you make to "
+"maintain concentration on it."
+msgstr ""
+
+msgctxt "Feature/&MetamagicFocusedSpellTitle"
+msgid "Focused Spell"
+msgstr ""
+
+msgctxt "Feature/&MetamagicPowerfulSpellDescription"
+msgid ""
+"You can spend 1 sorcery point per spell level to increase the number of "
+"damage dice by 1."
+msgstr ""
+
+msgctxt "Feature/&MetamagicPowerfulSpellTitle"
+msgid "Powerful Spell"
+msgstr ""
+
+msgctxt "Feature/&MetamagicWidenedSpellDescription"
+msgid ""
+"You can spend 2 sorcery points to increase the area of a spell's effect. "
+"Spells that have a cone, cube, cylinder or sphere area of effect increase in "
+"dimension, to the nearest 5-foot increment."
+msgstr ""
+
+msgctxt "Feature/&MetamagicWidenedSpellTitle"
+msgid "Widened Spel"
+msgstr ""

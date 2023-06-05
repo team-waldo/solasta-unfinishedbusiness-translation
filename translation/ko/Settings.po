@@ -1,0 +1,1193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "ModUi/&AddAllToStore"
+msgid "Add all to store"
+msgstr ""
+
+msgctxt "ModUi/&AddBleedingToLesserRestoration"
+msgid ""
+"Add the <color=#D89555>Bleeding</color> condition to the ones removed by "
+"<color=#D89555>Greater</color> and <color=#D89555>Lesser Restoration</color>"
+msgstr ""
+
+msgctxt "ModUi/&AddCustomIconsToOfficialItems"
+msgid ""
+"Add custom icons to official game items <i><color=#F0DAA0>[ammunition, "
+"recipes, kits, etc.]</color></i> <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&AddHelpActionToAllRaces"
+msgid ""
+"Add the <color=#D89555>Help</color> action to all playable races "
+"<i><color=#F0DAA0>[you can aid a friendly creature in attacking a creature "
+"within 5 ft of you]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AddHumanoidFavoredEnemyToRanger"
+msgid "Add humanoid preferred enemy to <color=#D89555>Rangers</color>"
+msgstr ""
+
+msgctxt "ModUi/&AddNewBrightEyeColors"
+msgid "Add new bright eye colors"
+msgstr ""
+
+msgctxt "ModUi/&AddNewWeaponsAndRecipesToShops"
+msgid ""
+"Add new weapons and recipes to shops <i><color=#F0DAA0>[hand wraps, "
+"halberds, pikes, long maces, hand crossbows]</color></i> "
+"<b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&AddPaladinSmiteToggle"
+msgid ""
+"Add a toggle to allow <color=#D89555>Paladins</color> to only enable smites "
+"on critical hits <i><color=#F0DAA0>[useful to minimize reaction "
+"prompts]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AddPickPocketableLoot"
+msgid ""
+"Add pickpocketable loot <i><color=#F0DAA0>[suggested if "
+"<color=#D89555>Pickpocket</color> feat is enabled]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AddToStore"
+msgid "Add to store"
+msgstr ""
+
+msgctxt "ModUi/&Advanced"
+msgid ""
+"<color=#F0DAA0>Advanced:</color> <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&AdvancedHelp"
+msgid ""
+". <b><color=#C04040E0>ATTENTION:</color></b> These settings will require the "
+"player to have this mod installed"
+msgstr ""
+
+msgctxt "ModUi/&AllItemInDm"
+msgid "All items in DM"
+msgstr ""
+
+msgctxt "ModUi/&AllRecipesInDm"
+msgid "All recipes in DM"
+msgstr ""
+
+msgctxt "ModUi/&AllowAllPlayersOnNarrativeSequences"
+msgid "<i>+ Allow all players on narrative sequences</i>"
+msgstr ""
+
+msgctxt "ModUi/&AllowAnyClassToWearSylvanArmor"
+msgid ""
+"Allow any class to wear <color=#D89555>Sylvan Armor</color> or <color=#"
+"D89555>Lightbringer Clothes</color>"
+msgstr ""
+
+msgctxt "ModUi/&AllowAssigningOfficialSpells"
+msgid "Allow official spells to display on these lists"
+msgstr ""
+
+msgctxt "ModUi/&AllowBeardlessDwarves"
+msgid "Allow beardless <color=#D89555>Dwarves</color>"
+msgstr ""
+
+msgctxt "ModUi/&AllowClubsToBeThrown"
+msgid ""
+"Allow <color=#D89555>clubs</color> to be thrown like <color=#D89555>daggers</"
+"color> or <color=#D89555>hand axes</color>"
+msgstr ""
+
+msgctxt "ModUi/&AllowDruidToWearMetalArmor"
+msgid "Allow <color=#D89555>Druid</color> to wear metal armor"
+msgstr ""
+
+msgctxt "ModUi/&AllowDungeonsMaxLevel20"
+msgid "Allow dungeons with max level 20"
+msgstr ""
+
+msgctxt "ModUi/&AllowGadgetsAndPropsToBePlacedAnywhere"
+msgid ""
+"Enable <color=#1E81B0>CTRL</color> click to bypass any check when placing "
+"gadgets or props"
+msgstr ""
+
+msgctxt "ModUi/&AllowHornsOnAllRaces"
+msgid ""
+"Allow horns on all races <i><color=#F0DAA0>[results might look terrible "
+"depending on race, head and horn]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AllowMoreRealStateOnRestPanel"
+msgid ""
+"Allow more real state on rest panel <i><color=#F0DAA0>[hide after rest "
+"actions on before panel and recovery features on after panel]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AllowStackedMaterialComponent"
+msgid ""
+"Allow stacked material component <i><color=#F0DAA0>[e.g. 2x500gp diamond is "
+"equivalent to 1000gp diamond]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&AllowTargetingSelectionWhenCastingChainLightningSpell"
+msgid ""
+"Allow target selection when casting the <color=#D89555>Chain Lightning</"
+"color> spell"
+msgstr ""
+
+msgctxt "ModUi/&AllowUnmarkedSorcerers"
+msgid ""
+"Allow <color=#D89555>Sorcerer</color> without origin markings and tattoos"
+msgstr ""
+
+msgctxt "ModUi/&AltOnlyHighlightItemsInPartyFieldOfView"
+msgid ""
+"<color=#1E81B0>ALT</color> key only highlights gadgets in party field of "
+"view <i><color=#F0DAA0>[custom dungeons only]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&ApplySRDWeightToFoodRations"
+msgid "Reduce the weight of <color=#D89555>food ration</color> to 2 pounds"
+msgstr ""
+
+msgctxt "ModUi/&ArcaneShieldstaffOptions"
+msgid ""
+"Allow <color=#D89555>Arcane Shieldstaff</color> to be attuned by any class"
+msgstr ""
+
+msgctxt "ModUi/&AttackersWithDarkvisionHaveAdvantageOverDefendersWithout"
+msgid ""
+"Attackers with <color=#D89555>Darkvision</color> have advantage over "
+"defenders without"
+msgstr ""
+
+msgctxt "ModUi/&Backgrounds"
+msgid "<color=#F0DAA0>Backgrounds</color>"
+msgstr ""
+
+msgctxt "ModUi/&BackgroundsAndRaces"
+msgid "Backgrounds & Races"
+msgstr ""
+
+msgctxt "ModUi/&Basic"
+msgid "<color=#F0DAA0>Basic:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Bestiary"
+msgid "Bestiary"
+msgstr ""
+
+msgctxt "ModUi/&BestowCurseNoConcentrationRequiredForSlotLevel5OrAbove"
+msgid ""
+"<color=#D89555>Bestow Curse</color> does not require concentration when cast "
+"with a L5+ spell slot"
+msgstr ""
+
+msgctxt "ModUi/&BlindedConditionDontAllowAttackOfOpportunity"
+msgid ""
+"The <color=#D89555>Blinded</color> condition doesn't allow attack of "
+"opportunity"
+msgstr ""
+
+msgctxt "ModUi/&Blueprints"
+msgid "Blueprints"
+msgstr ""
+
+msgctxt "ModUi/&Campaigns"
+msgid "<color=#F0DAA0>Campaigns:</color>"
+msgstr ""
+
+msgctxt "ModUi/&CampaignsAndLocations"
+msgid "<color=#F0DAA0>Campaigns and locations:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Category"
+msgid "Category"
+msgstr ""
+
+msgctxt "ModUi/&ChangeSleetStormToCube"
+msgid ""
+"Change <color=#D89555>Sleet Storm</color> to use a cube instead of a cylinder"
+msgstr ""
+
+msgctxt "ModUi/&Changelog"
+msgid "<b><color=#D89555>Change Log</color></b>"
+msgstr ""
+
+msgctxt "ModUi/&Character"
+msgid "Character"
+msgstr ""
+
+msgctxt "ModUi/&CharactersPool"
+msgid "Characters Pool"
+msgstr ""
+
+msgctxt "ModUi/&Classes"
+msgid "<color=#F0DAA0>Classes</color>"
+msgstr ""
+
+msgctxt "ModUi/&ClassesAndSubclasses"
+msgid "Classes & Subclasses"
+msgstr ""
+
+msgctxt "ModUi/&Crafting"
+msgid "<color=#F0DAA0>Crafting:</color>"
+msgstr ""
+
+msgctxt "ModUi/&CraftingHelp"
+msgid ""
+". Press the button to learn recipes instantly on the active party\\n"
+". Items added to stores might need the party to travel away from the "
+"location and come back"
+msgstr ""
+
+msgctxt "ModUi/&Credits"
+msgid "Credits"
+msgstr ""
+
+msgctxt "ModUi/&CreditsAndDiagnostics"
+msgid "Credits & Diags"
+msgstr ""
+
+msgctxt "ModUi/&Critical"
+msgid "<color=#F0DAA0>Critical Hit:</color>"
+msgstr ""
+
+msgctxt "ModUi/&CriticalOption0"
+msgid ""
+"<color=#D89555><b>0</b></color>: game default, roll any damage dice twice, "
+"add the result and add modifiers <i><color=#F0DAA0>[XdY+XdY+Z]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&CriticalOption1"
+msgid ""
+"<color=#D89555><b>1</b></color>: sum the maximum result for the damage dice "
+"and add it to the attack's damage <i><color=#F0DAA0>[XdY+(X*Y)+Z]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&CriticalOption2"
+msgid ""
+"<color=#D89555><b>2</b></color>: keep re-rolling any damage dice that roll "
+"the highest possible result and add it to the total damage"
+msgstr ""
+
+msgctxt "ModUi/&CriticalOption3"
+msgid ""
+"<color=#D89555><b>3</b></color>: Double your attack's total damage instead "
+"of rolling additional dice. <i><color=#F0DAA0>[(XdY+Z)*2]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&Deities"
+msgid "<color=#F0DAA0>Deities</color>"
+msgstr ""
+
+msgctxt "ModUi/&DisableAutoEquip"
+msgid "Disable auto-equip of items in inventory"
+msgstr ""
+
+msgctxt "ModUi/&DisableClassPrerequisitesOnModFeats"
+msgid "Disable level pre-requisites on feats provided by this mod"
+msgstr ""
+
+msgctxt "ModUi/&DisableRacePrerequisitesOnModFeats"
+msgid "Disable race pre-requisites on feats provided by this mod"
+msgstr ""
+
+msgctxt "ModUi/&DisableSenseDarkVisionFromAllRaces"
+msgid ""
+"Disable <color=#D89555>Sense Dark Vision</color> from all playable races "
+"<b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&DisableSenseSuperiorDarkVisionFromAllRaces"
+msgid ""
+"Disable <color=#D89555>Superior Sense Dark Vision</color> from all playable "
+"races <b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&DisableUnofficialTranslations"
+msgid ""
+"Disable unofficial translations support to speed up mod <i><color=#F0DAA0>["
+"unless I speak Chinese, Italian, Japanese, Korean or Spanish]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&DisableUpdateMessage"
+msgid ""
+"Disable update messages <i><color=#F0DAA0>[blue pill users, this is your "
+"last chance]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&DisplayAllKnownSpellsDuringLevelUp"
+msgid "<i>+ Display all known spells from other classes during level up</i>"
+msgstr ""
+
+msgctxt "ModUi/&DisplayPactSlotsOnSpellSelectionPanel"
+msgid ""
+"<i>+ Display <color=#D89555>Warlock</color> pact slots on spell selection "
+"instead of character panel</i>"
+msgstr ""
+
+msgctxt "ModUi/&Donate"
+msgid "<b><color=#D89555>Donate:</color></b> <i>{0}</i>"
+msgstr ""
+
+msgctxt "ModUi/&DontDisplayHelmets"
+msgid ""
+"Don't display helmets on graphic characters <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&DontFollowCharacterInBattle"
+msgid "Battle camera doesn't follow when character is already on screen"
+msgstr ""
+
+msgctxt "ModUi/&DontFollowMargin"
+msgid ""
+"<i><color=white>+ Unless hero is off or within % of screen edge</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&DungeonMakerBasicHelp"
+msgid ". These settings won't require the player to have this mod installed"
+msgstr ""
+
+msgctxt "ModUi/&DungeonMakerMenu"
+msgid "Dungeon Maker"
+msgstr ""
+
+msgctxt "ModUi/&EmpressGarbAppearance"
+msgid "<color=#D89555>Empress Garb</color> appearance"
+msgstr ""
+
+msgctxt "ModUi/&EnableAdditionalBackstoryDisplay"
+msgid "Enable additional backstory display on background inspection"
+msgstr ""
+
+msgctxt "ModUi/&EnableAdditionalIconsOnLevelMap"
+msgid "Enable additional icons for camps, exits and teleporters on level map"
+msgstr ""
+
+msgctxt "ModUi/&EnableAdditionalItemsInDungeonMaker"
+msgid "<i>+ Add new items to Dungeon Maker</i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableAlternateHuman"
+msgid ""
+"Enable the alternate human <i><color=#F0DAA0>[+1 feat / +2 attribute choices "
+"/ +1 skill]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableBarbarianFightingStyle"
+msgid ""
+"Enable <color=#D89555>Barbarian</color> <b>Fighting Style</b> choice at "
+"level 2"
+msgstr ""
+
+msgctxt "ModUi/&EnableBetaContent"
+msgid ""
+"Enable beta content <b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&EnableCancelEditOnRightMouseClick"
+msgid "Enable cancel actions with right mouse click"
+msgstr ""
+
+msgctxt "ModUi/&EnableCantripsTriggeringOnWarMagic"
+msgid ""
+"Enable cantrips to trigger <color=#D89555>War Magic</color> extra bonus "
+"attack"
+msgstr ""
+
+msgctxt "ModUi/&EnableCharacterChecker"
+msgid "Enable the Character Checker button on Main Screen > Characters"
+msgstr ""
+
+msgctxt "ModUi/&EnableCharacterExport"
+msgid "Enable <color=#1E81B0>CTRL-SHIFT-(E)</color> to export the character"
+msgstr ""
+
+msgctxt "ModUi/&EnableCharactersOnFireToEmitLight"
+msgid ""
+"Characters on fire should emit light <i><color=#F0DAA0>[Cube of Light, Fire "
+"Elemental, Fire Jester, Fire Osprey, Fire Spider, and on fire condition "
+"family]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableCheatMenu"
+msgid "Enable the cheats menu"
+msgstr ""
+
+msgctxt "ModUi/&EnableDungeonMakerModdedContent"
+msgid ""
+"Enable Dungeon Maker Pro\\n"
+"<i><color=#F0DAA0>[include flat rooms, 150x150 & 200x200 dungeon sizes and "
+"no frills mixing assets from all environments]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableEpicPointsAndArray"
+msgid ""
+"Enable an epic 35 points buy system and array "
+"<i><color=#F0DAA0>[17,15,13,12,10,8]</color></i> <b><i><color=#C04040E0>["
+"Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&EnableFeatsAtEvenLevels"
+msgid "Enable feats selection at class levels 2, 10 and 18"
+msgstr ""
+
+msgctxt "ModUi/&EnableFeatsAtEvenLevelsMiddle"
+msgid "Enable feats selection at class levels 6 and 14"
+msgstr ""
+
+msgctxt "ModUi/&EnableFighterWeaponSpecialization"
+msgid ""
+"Enable <color=#D89555>Fighter</color> <b>Weapon Specialization</b> at class "
+"levels 8 and 16 <i><color=#F0DAA0>[get +1 to hit and to damage but "
+"disadvantage with any other weapon type]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableFlankingRules"
+msgid ""
+"Enable flanking rules <i><color=#F0DAA0>[+1 to hit if ranged at a higher "
+"ground, +1 to hit if melee from behind, advantage if enemy surrounded by 4+ "
+"allies]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableFlexibleBackgrounds"
+msgid ""
+"Enable flexible backgrounds <i><color=#F0DAA0>[select skill and tool "
+"proficiencies from backgrounds]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableFlexibleRaces"
+msgid ""
+"Enable flexible races <i><color=#F0DAA0>[assign ability score points instead "
+"of the racial defaults]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableHotkeyDebugOverlay"
+msgid ""
+"Enable <color=#1E81B0>CTRL-SHIFT-(D)</color> to display the debug overlay"
+msgstr ""
+
+msgctxt "ModUi/&EnableHotkeyToggleHud"
+msgid "Enable <color=#1E81B0>CTRL-SHIFT-(H)</color> to toggle the HUD display"
+msgstr ""
+
+msgctxt "ModUi/&EnableInventoryFilteringAndSorting"
+msgid "Enable inventory filtering and sorting"
+msgstr ""
+
+msgctxt "ModUi/&EnableInventoryTaintNonProficientItemsRed"
+msgid "Tint red any item the hero isn't proficient with"
+msgstr ""
+
+msgctxt "ModUi/&EnableInventoryTintKnownRecipesRed"
+msgid "Tint known recipes red"
+msgstr ""
+
+msgctxt "ModUi/&EnableInvisibleCrownOfTheMagister"
+msgid "Hide the <color=#D89555>Crown of the Magister</color> on game UI"
+msgstr ""
+
+msgctxt "ModUi/&EnableLevel20"
+msgid ""
+"Enable level 20 <b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&EnableLogDialoguesToConsole"
+msgid "Enable log dialogues to game console during narrative sequences"
+msgstr ""
+
+msgctxt "ModUi/&EnableLoggingInvalidReferencesInUserCampaigns"
+msgid "Enable logging invalid references in custom campaigns"
+msgstr ""
+
+msgctxt "ModUi/&EnableMinInOutAttributes"
+msgid "<i>+ Enforce ability scores minimum in & out pre-requisites</i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableMonkWeaponSpecialization"
+msgid ""
+"Enable <color=#D89555>Monk</color> <b>Weapon Specialization</b> at class "
+"levels 2 and 11 <i><color=#F0DAA0>[the selected weapon type becomes a monk "
+"weapon to you]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableMulticlass"
+msgid ""
+"Enable multiclass <b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&EnablePcgRandom"
+msgid ""
+"Enable a better random generator algorithm <i><color=#F0DAA0>[https://www."
+"pcg-random.org]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableRejoinParty"
+msgid ""
+"Enable <color=#1E81B0>CTRL-SHIFT-(R)</color> to rejoin the party around the "
+"selected hero or the leader if none is selected <i><color=#F0DAA0>[useful "
+"with parties of 5 or 6]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableRelearnSpells"
+msgid ""
+"<i>+ Can select cantrips or spells already learned from other classes</i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableRespec"
+msgid "Enable the RESPEC after rest action"
+msgstr ""
+
+msgctxt "ModUi/&EnableSaveByLocation"
+msgid "Enable save by campaigns / locations"
+msgstr ""
+
+msgctxt "ModUi/&EnableSortingDungeonMakerAssets"
+msgid "Enable assets sorting on Dungeon Maker editor"
+msgstr ""
+
+msgctxt "ModUi/&EnableStatsOnHeroTooltip"
+msgid ""
+"Display stats on hero's tooltip <i><color=#F0DAA0>[i.e.: critical hits, "
+"critical failures, etc.]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableTeleportParty"
+msgid ""
+"Enable <color=#1E81B0>CTRL-SHIFT-(T)</color> to teleport the party "
+"<i><color=#F0DAA0>[you might break quests if you teleport to an undiscovered "
+"place]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EnableTogglesToOverwriteDefaultTestParty"
+msgid ""
+"Enable toggles on character pool to set your default play and test party"
+msgstr ""
+
+msgctxt "ModUi/&EnableUpcastConjureElementalAndFey"
+msgid ""
+"Enable upcast of <color=#D89555>Conjure Elemental</color> and <color=#"
+"D89555>Conjure Fey</color>"
+msgstr ""
+
+msgctxt "ModUi/&EnablesAsiAndFeat"
+msgid ""
+"Enable both attribute scores increase and feat selection <i><color=#F0DAA0>["
+"instead of an exclusive choice]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&EncounterPercentageChance"
+msgid "<color=white>Set random encounters percentage chances</color>"
+msgstr ""
+
+msgctxt "ModUi/&Encounters"
+msgid "Encounters"
+msgstr ""
+
+msgctxt "ModUi/&EnumerateOriginSubFeatures"
+msgid ""
+"<b><color=#C04040E0>[BETA]</color></b> Allow features from heroes to work "
+"while in <color=#D89555>Wildshape</color> form"
+msgstr ""
+
+msgctxt "ModUi/&ExpandAll"
+msgid "Expand All"
+msgstr ""
+
+msgctxt "ModUi/&FactionHelp"
+msgid ""
+"<color=#C04040E0>Load an official campaign game to modify faction "
+"relations...</color>"
+msgstr ""
+
+msgctxt "ModUi/&FactionRelations"
+msgid "<color=#F0DAA0>Factions:</color>"
+msgstr ""
+
+msgctxt "ModUi/&FasterTimeModifier"
+msgid "<color=white>Game time modifier when pressing space bar</color>"
+msgstr ""
+
+msgctxt "ModUi/&FeatGroups"
+msgid "<color=#F0DAA0>Feat Groups</color>"
+msgstr ""
+
+msgctxt "ModUi/&FeatGroupsHelp"
+msgid ""
+". Each group is a consolidation of similar feats <i><color=#F0DAA0>[i.e.: "
+"creeds, fighting styles, metamagic, etc]</color></i>\\n"
+". Feats in these groups won't be directly visible anymore on the proficiency "
+"selection stage\\n"
+". The group, when selected, offers them on a dropdown list to de-clutter the "
+"game screen"
+msgstr ""
+
+msgctxt "ModUi/&Feats"
+msgid "<color=#F0DAA0>Feats</color>"
+msgstr ""
+
+msgctxt "ModUi/&FightingStyles"
+msgid "<color=#F0DAA0>Fighting Styles</color>"
+msgstr ""
+
+msgctxt "ModUi/&FixAsianLanguagesTextWrap"
+msgid ""
+"Fix Asian languages' game UI text wrap <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&FixEldritchBlastRange"
+msgid ""
+"Change <color=#D89555>Eldritch Blast</color> range to 24 <i><color=#F0DAA0>["
+"instead of 16]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&Formation"
+msgid "<color=#F0DAA0>Formation:</color>"
+msgstr ""
+
+msgctxt "ModUi/&FormationError"
+msgid ""
+"<color=#C04040E0>You cannot change your formation during a multiplayer "
+"game...</color>"
+msgstr ""
+
+msgctxt "ModUi/&FormationHelp1"
+msgid ""
+". Use the numeric buttons to edit a given set <i><color=#F0DAA0>[consider "
+"enabling hotkeys under input]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&FormationHelp2"
+msgid ". <b><color=#1E81B0>@</color></b> represent relative hero positions"
+msgstr ""
+
+msgctxt "ModUi/&FormationHelp3"
+msgid ". Click any 2 buttons to swap their positions"
+msgstr ""
+
+msgctxt "ModUi/&FormationHotkey"
+msgid ""
+"Enable <color=#1E81B0>CTRL-SHIFT-(1..5)</color> to swap formation sets in "
+"game"
+msgstr ""
+
+msgctxt "ModUi/&FormationResetAllSets"
+msgid "Reset all"
+msgstr ""
+
+msgctxt "ModUi/&FormationResetThisSet"
+msgid "Reset this"
+msgstr ""
+
+msgctxt "ModUi/&FormationSelected"
+msgid "Formation set {0} selected"
+msgstr ""
+
+msgctxt "ModUi/&FullyControlConjurations"
+msgid ""
+"Fully control conjurations <i><color=#F0DAA0>[animals, elementals, "
+"etc]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&GameUi"
+msgid "Game UI"
+msgstr ""
+
+msgctxt "ModUi/&Gameplay"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "ModUi/&General"
+msgid "<color=#F0DAA0>General:</color>"
+msgstr ""
+
+msgctxt "ModUi/&GeneralMenu"
+msgid "General"
+msgstr ""
+
+msgctxt "ModUi/&HideExitAndTeleporterGizmosIfNotDiscovered"
+msgid "Hide exits and teleporters visual effects if not discovered yet"
+msgstr ""
+
+msgctxt "ModUi/&HideMonsterHitPoints"
+msgid ""
+"Display Monsters' health in steps of 25% / 50% / 75% / 100% instead of exact "
+"hit points"
+msgstr ""
+
+msgctxt "ModUi/&House"
+msgid "<color=#F0DAA0>House:</color>"
+msgstr ""
+
+msgctxt "ModUi/&IdentifyAfterRest"
+msgid ""
+"Add a power to <color=#D89555>identify magic items</color> over a short or "
+"long rest"
+msgstr ""
+
+msgctxt "ModUi/&IgnoreHandXbowFreeHandRequirements"
+msgid "Do not require free hand to use <color=#D89555>Hand Crossbows</color>"
+msgstr ""
+
+msgctxt "ModUi/&ImproveLevelUpFeaturesSelection"
+msgid ""
+"Improve level up features selection <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>\\n"
+"<i><color=#F0DAA0>[impacts <color=#D89555>Ranger</color> Preferred Enemy and "
+"Terrain Affinity, <color=#D89555>Druid</color> Kindred Beast, "
+"<color=#D89555>Barbarian</color> Path of the Elements and subclasses "
+"Draconic choices]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&IncreaseGameTimeBy"
+msgid "Increase game time by"
+msgstr ""
+
+msgctxt "ModUi/&IncreaseMaxAttunedItems"
+msgid "Increase max attuned items to 4 at level 10th and 5 at level 18th"
+msgstr ""
+
+msgctxt "ModUi/&IncreaseSenseNormalVision"
+msgid ""
+"<color=white>Increase <color=#D89555>Sense Normal Vision</color> range to "
+"enable long range attacks</color> <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&IncreaseSenseNormalVisionHelp"
+msgid ""
+"<i><color=#F0DAA0>[40 is ideal to avoid enemies joining from too "
+"far]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&InitialChoices"
+msgid "<color=#F0DAA0>Creation:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Input"
+msgid "<color=#F0DAA0>Input:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Interface"
+msgid "Interface"
+msgstr ""
+
+msgctxt "ModUi/&InventoryAndItems"
+msgid "<color=#F0DAA0>Inventory and items:</color>"
+msgstr ""
+
+msgctxt "ModUi/&InvertAltBehaviorOnTooltips"
+msgid "Invert <color=#1E81B0>ALT</color> key behavior on tooltips"
+msgstr ""
+
+msgctxt "ModUi/&Invocations"
+msgid "<color=#F0DAA0>Invocations</color>"
+msgstr ""
+
+msgctxt "ModUi/&ItemInDm"
+msgid "Items in DM"
+msgstr ""
+
+msgctxt "ModUi/&Items"
+msgid "<color=#F0DAA0>Items:</color>"
+msgstr ""
+
+msgctxt "ModUi/&ItemsCraftingMerchants"
+msgid "Crafting, Items & Merchants"
+msgstr ""
+
+msgctxt "ModUi/&ItemsHelp1"
+msgid ""
+"<color=#C04040E0>Open the character inspection screen to add items to "
+"heroes...</color>"
+msgstr ""
+
+msgctxt "ModUi/&ItemsHelp2"
+msgid "<b>Press + to add items to the ground container</b>"
+msgstr ""
+
+msgctxt "ModUi/&MakeAllMagicStaveArcaneFoci"
+msgid ""
+"Make all magic staves arcane foci <i><color=#F0DAA0>[except for <color=#"
+"D89555>Staff of Healing</color> which is Universal]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&MakeLargeWildshapeFormsMedium"
+msgid "Make all large wildshape forms medium in size"
+msgstr ""
+
+msgctxt "ModUi/&MarkInvisibleTeleportersOnLevelMap"
+msgid ""
+"<i>+ Also mark the location of invisible teleporters on level map after "
+"discovery</i>"
+msgstr ""
+
+msgctxt "ModUi/&MaxAllowedClasses"
+msgid "<color=white>Max allowed classes</color>"
+msgstr ""
+
+msgctxt "ModUi/&Merchants"
+msgid "<color=#F0DAA0>Merchants:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Metamagic"
+msgid "<color=#F0DAA0>Metamagic</color>"
+msgstr ""
+
+msgctxt "ModUi/&Monsters"
+msgid "<color=#F0DAA0>Monsters:</color>"
+msgstr ""
+
+msgctxt "ModUi/&MulticlassKeyHelp"
+msgid ""
+"<color=#1E81B0>SHIFT</color> click on a spell inverts the default repertoire "
+"slot type consumed\\n"
+"<i><color=#F0DAA0>[<color=#D89555>Warlock</color> spends white spell slots "
+"and others spend pact green ones]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&MultiplyTheExperienceGainedBy"
+msgid ""
+"<color=white>Multiply the experience gained by</color> "
+"<color=#C04040E0>[%]</color>"
+msgstr ""
+
+msgctxt "ModUi/&NoExperienceOnLevelUp"
+msgid "No experience is required to level up"
+msgstr ""
+
+msgctxt "ModUi/&OfferAdditionalLoreFriendlyNames"
+msgid "Offer additional lore friendly names on character creation"
+msgstr ""
+
+msgctxt "ModUi/&OnlyShowMostPowerfulUpcastConjuredElementalOrFey"
+msgid "<i>+ Only show the most powerful creatures in the conjuration list</i>"
+msgstr ""
+
+msgctxt "ModUi/&OverrideMinMaxLevel"
+msgid "Override the required min and max levels when starting new adventures"
+msgstr ""
+
+msgctxt "ModUi/&OverridePartySize"
+msgid "<color=white>Override the party size</color>"
+msgstr ""
+
+msgctxt "ModUi/&Patches"
+msgid "<color=#F0DAA0>Patches:</color>"
+msgstr ""
+
+msgctxt "ModUi/&PrimedItems"
+msgid "Primed Items"
+msgstr ""
+
+msgctxt "ModUi/&Progression"
+msgid "<color=#F0DAA0>Progression:</color>"
+msgstr ""
+
+msgctxt "ModUi/&Races"
+msgid "<color=#F0DAA0>Races</color>"
+msgstr ""
+
+msgctxt "ModUi/&RecipeCost"
+msgid "<color=white>Recipe's cost</color>"
+msgstr ""
+
+msgctxt "ModUi/&RecipesInDm"
+msgid "Recipes in DM"
+msgstr ""
+
+msgctxt "ModUi/&RelicForgeries"
+msgid "Relic Forgeries"
+msgstr ""
+
+msgctxt "ModUi/&RemoveAttunementRequirements"
+msgid ""
+"Remove attunement requirements <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&RemoveBugVisualModels"
+msgid ""
+"Replace spider like models with alternative visuals in the game "
+"<b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&RemoveHumanoidFilterOnHideousLaughter"
+msgid "Remove humanoid filter on <color=#D89555>Hideous Laughter</color>"
+msgstr ""
+
+msgctxt "ModUi/&RemoveIdentificationRequirements"
+msgid ""
+"Remove identification requirements <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&RemoveRecurringEffectOnEntangle"
+msgid ""
+"Only apply <color=#D89555>Entangle</color> effect at casting time "
+"<i><color=#F0DAA0>[i.e.: no recurring effect]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&RestockAntiquarians"
+msgid "Restock Antiquarians <i><color=#F0DAA0>[Halman Summer]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&RestockArcaneum"
+msgid "Restock Arcaneum <i><color=#F0DAA0>[Heddlon Surespell]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&RestockCircleOfDanantar"
+msgid ""
+"Restock Circle of Danantar <i><color=#F0DAA0>[Joriel Foxeye]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&RestockHelp"
+msgid ""
+". Override defaults to force all merchant's stock to restock over time "
+"<i><color=#F0DAA0>[excluding Manuals and Tomes]</color></i>\\n"
+". Note that some items can take up to 7 game days to restock"
+msgstr ""
+
+msgctxt "ModUi/&RestockTowerOfKnowledge"
+msgid ""
+"Restock Tower of Knowledge <i><color=#F0DAA0>[Maddy Greenisle]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&Rollback"
+msgid "<b><color=#D89555>Rollback</color></b>"
+msgstr ""
+
+msgctxt "ModUi/&Rules"
+msgid "Rules"
+msgstr ""
+
+msgctxt "ModUi/&SRD"
+msgid "<color=#F0DAA0>SRD:</color>"
+msgstr ""
+
+msgctxt "ModUi/&ScaleMerchantPricesCorrectly"
+msgid ""
+"Scale merchant prices correctly / exactly <i><color=#F0DAA0>[no more "
+"rounding errors when converting coin values]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&SelectAll"
+msgid "Select All"
+msgstr ""
+
+msgctxt "ModUi/&SelectSuggested"
+msgid "Select Suggested"
+msgstr ""
+
+msgctxt "ModUi/&Services"
+msgid "Services"
+msgstr ""
+
+msgctxt "ModUi/&SetBeltOfDwarvenKindBeardChances"
+msgid ""
+"<color=#D89555>Belt of Dwarvenkind</color> <color=white>beard appearing "
+"chances</color>"
+msgstr ""
+
+msgctxt "ModUi/&SettingsExport"
+msgid "Export"
+msgstr ""
+
+msgctxt "ModUi/&SettingsHelp"
+msgid ""
+". As a host you can export your current configuration, open the exports "
+"folder and easily share with your peers\\n"
+". As a guest you can open the exports folder, paste the shared file from the "
+"host and load it over <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&SettingsLoad"
+msgid ". Load an exported setting"
+msgstr ""
+
+msgctxt "ModUi/&SettingsOpenFolder"
+msgid "Open exported settings folder"
+msgstr ""
+
+msgctxt "ModUi/&SettingsRefresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "ModUi/&SettingsRemove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "ModUi/&ShowButtonWithControlledMonsterInfo"
+msgid ""
+"<b><color=#C04040E0>[BETA]</color></b> Show button that opens info about "
+"controlled monster <i><color=#F0DAA0>[wild-shaped druids, summons, NPC "
+"followers, etc.]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&ShowChannelDivinityOnPortrait"
+msgid ""
+"Show how many <color=#D89555>Channel Divinity</color> uses a hero has on "
+"their portrait, similar to sorcery points"
+msgstr ""
+
+msgctxt "ModUi/&ShowCraftedItemOnRecipeIcon"
+msgid ""
+"Show crafted item icon near recipe item in shop and inventory "
+"<i><color=#F0DAA0>[Hovering over it will show tooltip for crafted "
+"item]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&ShowCraftingRecipeInDetailedTooltips"
+msgid "Show crafting recipe in detailed tooltips"
+msgstr ""
+
+msgctxt "ModUi/&ShowDescriptions"
+msgid "Show Descriptions"
+msgstr ""
+
+msgctxt "ModUi/&SpellLevelFilter"
+msgid ""
+"<b><i><color=white>spell level filter</color> <color=#F0DAA0>[-1 displays "
+"all]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&SpellsMenu"
+msgid "Spells"
+msgstr ""
+
+msgctxt "ModUi/&StockGorimStoreWithAllNonMagicalClothing"
+msgid ""
+"Stock Gorim's store with all non-magical clothing <b><i><color=#C04040E0>["
+"Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&StockGorimStoreWithAllNonMagicalInstruments"
+msgid ""
+"Stock Gorim's store with all non-magical musical instruments "
+"<b><i><color=#C04040E0>[Requires Restart]</color></i></b>"
+msgstr ""
+
+msgctxt "ModUi/&StockHugoStoreWithAdditionalFoci"
+msgid ""
+"Stock Hugo's store with <color=#D89555>Arcane Staff</color>, <color=#"
+"D89555>Druid Neck</color>, <color=#D89555>Staff</color> and "
+"<color=#D89555>Club</color> set as foci items"
+msgstr ""
+
+msgctxt "ModUi/&Subclasses"
+msgid "<color=#F0DAA0>Subclasses</color>"
+msgstr ""
+
+msgctxt "ModUi/&SwapCraftedItemAndRecipeIcons"
+msgid "<i>+ Swap recipe and crafted item icons in shop</i>"
+msgstr ""
+
+msgctxt "ModUi/&TargetLanguage"
+msgid "Target Language"
+msgstr ""
+
+msgctxt "ModUi/&Tools"
+msgid "Tools"
+msgstr ""
+
+msgctxt "ModUi/&TotalCraftingTimeModifier"
+msgid "<color=white>Reduce crafting time by</color>"
+msgstr ""
+
+msgctxt "ModUi/&TotalFeatsGrantedFirstLevel"
+msgid "<color=white>Total feats granted at first level</color>"
+msgstr ""
+
+msgctxt "ModUi/&Translate"
+msgid "Translate"
+msgstr ""
+
+msgctxt "ModUi/&TranslateCancel"
+msgid "Cancel {0} at {1}"
+msgstr ""
+
+msgctxt "ModUi/&Translations"
+msgid "Translations"
+msgstr ""
+
+msgctxt "ModUi/&UnleashEnemyAsNpc"
+msgid "Allow monsters to be selected on NPC gadgets"
+msgstr ""
+
+msgctxt "ModUi/&UnleashNpcAsEnemy"
+msgid "Unlock monsters selection"
+msgstr ""
+
+msgctxt "ModUi/&UnlockAllNpcFaces"
+msgid "Unlock NPC faces"
+msgstr ""
+
+msgctxt "ModUi/&UnlockEyeStyles"
+msgid "Unlock eye styles"
+msgstr ""
+
+msgctxt "ModUi/&UnlockGlowingColorsForAllMarksAndTattoos"
+msgid "Unlock glowing colors for all markings and tattoos"
+msgstr ""
+
+msgctxt "ModUi/&UnlockGlowingEyeColors"
+msgid "Add glowing eye colors"
+msgstr ""
+
+msgctxt "ModUi/&UnlockMarkAndTattoosForAllCharacters"
+msgid ""
+"Unlock <color=#D89555>Sorcerer</color> origin markings and tattoos for all "
+"characters"
+msgstr ""
+
+msgctxt "ModUi/&UnlockSkinColors"
+msgid "Unlock skin colors"
+msgstr ""
+
+msgctxt "ModUi/&Update"
+msgid "<b><color=#D89555>Update</color></b>"
+msgstr ""
+
+msgctxt "ModUi/&UseElfFaceModelsOnTieflings"
+msgid ""
+"Use <color=#D89555>Elf</color> face models on "
+"<color=#D89555>Tieflings</color>"
+msgstr ""
+
+msgctxt "ModUi/&UseHeightOneCylinderEffect"
+msgid ""
+"Use a height 1 cylinder effect when casting <color=#D89555>Black Tentacles, "
+"Entangle, Grease</color> <i><color=#F0DAA0>[square]</color></i> or <color=#"
+"D89555>Spike Growth</color> <i><color=#F0DAA0>[round]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&UseOfficialAdvantageDisadvantageRules"
+msgid ""
+"Use official DnD advantage / disadvantage rules <i><color=#F0DAA0>[if "
+"circumstances cause a roll to have both, you are considered to have neither "
+"of them]</color></i>"
+msgstr ""
+
+msgctxt "ModUi/&Visuals"
+msgid ""
+"<color=#F0DAA0>Visuals:</color> <b><i><color=#C04040E0>[Requires "
+"Restart]</color></i></b>"
+msgstr ""

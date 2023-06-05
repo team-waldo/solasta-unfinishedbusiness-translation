@@ -1,0 +1,765 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Action/&CastPlaneMagicDescription"
+msgid "Cast one of the spells you got from Plane Touched feats"
+msgstr ""
+
+msgctxt "Action/&CastPlaneMagicTitle"
+msgid "Channel Plane Magic"
+msgstr ""
+
+msgctxt "Action/&CastSignatureSpellsDescription"
+msgid "Cast these 3rd level spells without spending a slot"
+msgstr ""
+
+msgctxt "Action/&CastSignatureSpellsTitle"
+msgid "Signature Spells"
+msgstr ""
+
+msgctxt "Action/&CastSpellMasteryDescription"
+msgid "Cast your 1st or 2nd level prepared spells without spending a slot"
+msgstr ""
+
+msgctxt "Action/&CastSpellMasteryTitle"
+msgid "Spell Mastery"
+msgstr ""
+
+msgctxt "Action/&FarStepDescription"
+msgid "Teleport up to 60 ft to an unoccupied space you can see"
+msgstr ""
+
+msgctxt "Action/&FarStepTitle"
+msgid "Far Step"
+msgstr ""
+
+msgctxt "Action/&FeatCrusherToggleDescription"
+msgid "Enable crusher to prompt for a push"
+msgstr ""
+
+msgctxt "Action/&FeatCrusherToggleTitle"
+msgid "Crusher"
+msgstr ""
+
+msgctxt "Action/&InventorInfusionDescription"
+msgid "Infuse item or create replica"
+msgstr ""
+
+msgctxt "Action/&InventorInfusionTitle"
+msgid "Infusions"
+msgstr ""
+
+msgctxt "Action/&MonkKiPointsToggleDescription"
+msgid "Activate/deactivate Distant Hand Technique"
+msgstr ""
+
+msgctxt "Action/&MonkKiPointsToggleTitle"
+msgid "Distant Hand Technique"
+msgstr ""
+
+msgctxt "Action/&MonsterSwapAttackToggleDescription"
+msgid "Swap attacks"
+msgstr ""
+
+msgctxt "Action/&MonsterSwapAttackToggleTitle"
+msgid "Swap"
+msgstr ""
+
+msgctxt "Action/&PaladinSmiteToggleDescription"
+msgid "Enable smites on any attack otherwise only on critical hits"
+msgstr ""
+
+msgctxt "Action/&PaladinSmiteToggleTitle"
+msgid "Smite"
+msgstr ""
+
+msgctxt "Action/&TacticianGambitDescription"
+msgid "Select special maneuver"
+msgstr ""
+
+msgctxt "Action/&TacticianGambitTitle"
+msgid "Gambits"
+msgstr ""
+
+msgctxt "BlueprintCategory/&FlatRoomsTitle"
+msgid "Flat Rooms"
+msgstr ""
+
+msgctxt "ContentPack/&9999Description"
+msgid ""
+"The Unfinished Business pack adds multiclass, races, sub-classes, feats, "
+"fighting style and spells. There's a higher level cap, QOL features, fixes "
+"and more. It's a veritable Horn of Plenty (TM)..."
+msgstr ""
+
+msgctxt "ContentPack/&9999Title"
+msgid "Unfinished Business Pack"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagTargetMeleeWeaponError"
+msgid "Can't perform melee attack on this target with current weapon"
+msgstr ""
+
+msgctxt "Feature/&AlwaysBeardDescription"
+msgid "{0}% chances to grow a glorious beard!"
+msgstr ""
+
+msgctxt "Feature/&AncestryLevelUpDraconicDescription"
+msgid "Your draconic ancestry gives you an affinity to {0} damage type."
+msgstr ""
+
+msgctxt "Feature/&CollegeHopeWanderingHealerSpellsDescription"
+msgid ""
+"{0}\\n"
+"\\n"
+msgstr ""
+
+msgctxt "Feature/&ExpandedSpellsDescription"
+msgid ""
+"{0}\\n"
+"\\n"
+msgstr ""
+
+msgctxt "Feature/&ExpandedSpellsTitle"
+msgid "Expanded Spells"
+msgstr ""
+
+msgctxt "Feature/&FighterExtraAttackDescription"
+msgid ""
+"You can attack twice, rather than once, when you use the attack or shove "
+"actions."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolKindredSpiritChoiceLearnDescription"
+msgid "Select a Kindred Spirit for your Druid."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolKindredSpiritChoiceLearnTitle"
+msgid "Kindred Spirit"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolMonkWeaponSpecializationLearnDescription"
+msgid "Select a new weapon type to become a monk weapon for you."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolMonkWeaponSpecializationLearnTitle"
+msgid "Monk Weapon Specialization"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolPathClawDraconicChoiceLearnDescription"
+msgid "Select a Path of the Claw draconic ancestry."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolPathClawDraconicChoiceLearnTitle"
+msgid "Draconic Ancestry"
+msgstr ""
+
+msgctxt ""
+"Feature/&InvocationPoolPathOfTheElementsElementalFuryChoiceLearnDescription"
+msgid "Select an Elemental Fury."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolPathOfTheElementsElementalFuryChoiceLearnTitle"
+msgid "Elemental Fury"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolRangerPreferredEnemyLearnDescription"
+msgid "Select a preferred enemy."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolRangerPreferredEnemyLearnTitle"
+msgid "Preferred Enemy"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolRangerTerrainTypeAffinityLearnDescription"
+msgid "Select a terrain type affinity."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolRangerTerrainTypeAffinityLearnTitle"
+msgid "Terrain Type Affinity"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolSorcererDraconicChoiceLearnDescription"
+msgid "Select a Sorcerer draconic ancestry."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolSorcererDraconicChoiceLearnTitle"
+msgid "Draconic Ancestry"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolWayOfTheDragonDraconicChoiceLearnDescription"
+msgid "Select a Way of the Dragon draconic ancestry."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolWayOfTheDragonDraconicChoiceLearnTitle"
+msgid "Draconic Ancestry"
+msgstr ""
+
+msgctxt "Feature/&MagicAffinityPatronExpandedSpellsDescription"
+msgid ""
+"{0}\\n"
+"\\n"
+msgstr ""
+
+msgctxt "Feature/&PowerAfterRestIdentifyDescription"
+msgid "Identify all magic items in inventory."
+msgstr ""
+
+msgctxt "Feature/&PowerAfterRestIdentifyTitle"
+msgid "Identify"
+msgstr ""
+
+msgctxt "Feature/&PowerHelpDescription"
+msgid ""
+"You can aid a friendly creature in attacking a creature within 5 ft of you. "
+"You feint, distract the target, or in some other way team up to make your "
+"ally's attack more effective. If your ally attacks the target before your "
+"next turn, the first attack roll is made with advantage."
+msgstr ""
+
+msgctxt "Feature/&PowerHelpTitle"
+msgid "Help"
+msgstr ""
+
+msgctxt "Feature/&ToolGainChoicesPluralDescription"
+msgid "Choose {0} of these tools: {1}"
+msgstr ""
+
+msgctxt "Feature/&ToolGainChoicesSingleDescription"
+msgid "Choose one of these tools: {1}"
+msgstr ""
+
+msgctxt "Feedback/&BehindAttack"
+msgid "Flanking from Behind"
+msgstr ""
+
+msgctxt "Feedback/&CharacterGivesBonusToSaveWithDCFormat"
+msgid "{0} gives a bonus of {1}, new result is {2} (DC: {3})"
+msgstr ""
+
+msgctxt "Feedback/&HigherAttack"
+msgid "Higher Ground"
+msgstr ""
+
+msgctxt "Feedback/&ReturningWeaponActivates"
+msgid "{1} returns to {0}!"
+msgstr ""
+
+msgctxt "Feedback/&Surrounded"
+msgid "Surrounded"
+msgstr ""
+
+msgctxt "Feedback/&TriggerFeatureLine"
+msgid "{0} triggers {1}"
+msgstr ""
+
+msgctxt "Feedback/&TriggerRerollLine"
+msgid "{0} activates the {1} power to reroll {2} = {3}"
+msgstr ""
+
+msgctxt "Format/&LevelAndExperienceFormat"
+msgid ""
+"Level: {0}\\n"
+"Experience: {1}\\n"
+"{2} points required to reach level {3}"
+msgstr ""
+
+msgctxt "Format/&LevelAndExperienceMaxedFormat"
+msgid ""
+"Level: {0}\\n"
+"Experience: {1}\\n"
+"max level reached"
+msgstr ""
+
+msgctxt "Message/&CharacterExportDuplicateNameErrorDescription"
+msgid ""
+"Export Cancelled:\\n"
+"\\n"
+"A hero with this name already exists in the pool.\\n"
+"Please try a different name."
+msgstr ""
+
+msgctxt "Message/&CharacterExportEmptyNameErrorDescription"
+msgid ""
+"Export Cancelled:\\n"
+"\\n"
+"Please try a non empty name."
+msgstr ""
+
+msgctxt "Message/&CharacterExportModalContentDescription"
+msgid "Enter the hero name to export:"
+msgstr ""
+
+msgctxt "Message/&CharacterExportModalTitleDescription"
+msgid "Export {0}"
+msgstr ""
+
+msgctxt "Message/&MessageModWelcomeDescription"
+msgid ""
+"The Unfinished Business Mod is packed full of exciting features, but by "
+"default none are enabled. Press <color=#F0DAA0>Ctrl-F10</color> to open the "
+"Unity Mod Manager UI [UMM], then click on the settings icon next to "
+"'Unfinished Business' to open the settings pages. Explore the options and "
+"select the ones you like.\\n"
+"The donate button will take you to PayPal by default. There are other "
+"donation options under Mod UI > Character."
+msgstr ""
+
+msgctxt "Message/&MessageModWelcomeTitle"
+msgid "Unfinished Business Mod"
+msgstr ""
+
+msgctxt "Message/&RespecMultiplayerAbortDescription"
+msgid "Cannot respec on a multiplayer game or map..."
+msgstr ""
+
+msgctxt "Message/&RespecSuccessfulDescription"
+msgid ""
+"RESPEC was successful. Don't forget to pick up your items on the ground."
+msgstr ""
+
+msgctxt "Message/&SpawnCustomEncounterDescription"
+msgid "Spawn encounter at coordinates ({0}, {1})?"
+msgstr ""
+
+msgctxt "Message/&SpawnCustomEncounterErrorDescription"
+msgid "Cannot spawn encounters on a multiplayer game..."
+msgstr ""
+
+msgctxt "Message/&SpawnCustomEncounterTitle"
+msgid "Encounter"
+msgstr ""
+
+msgctxt "Message/&TeleportPartyDescription"
+msgid ""
+"Teleport party to coordinates ({0}, {1})?\\n"
+"You might break quests or maps if you teleport to an undiscovered place."
+msgstr ""
+
+msgctxt "Message/&TeleportPartyTitle"
+msgid "Teleport"
+msgstr ""
+
+msgctxt "Reaction/&CastSpellInRetributionDescription"
+msgid "{0} is attacking {1}! You can cast {2} in response!"
+msgstr ""
+
+msgctxt "Reaction/&CastSpellInRetributionReactDescription"
+msgid "Click to cast {0}."
+msgstr ""
+
+msgctxt "Reaction/&CastSpellInRetributionReactTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "Reaction/&CastSpellInRetributionTitle"
+msgid "Cast Reaction Spell"
+msgstr ""
+
+msgctxt "Reaction/&ReactionSpendPowerBundleDescription"
+msgid "Spend Power."
+msgstr ""
+
+msgctxt "Reaction/&ReactionSpendPowerBundleTitle"
+msgid "Spend Power"
+msgstr ""
+
+msgctxt "Reaction/&ReadiedAction{0}Description"
+msgid "Readied {0}"
+msgstr ""
+
+msgctxt "Reaction/&ReadiedAction{0}Title"
+msgid "Readied {0}"
+msgstr ""
+
+msgctxt "Reaction/&SpendPower{0}Description"
+msgid "Spend {0}"
+msgstr ""
+
+msgctxt "Reaction/&SpendPower{0}Title"
+msgid "Spend {0}"
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlot{0}Description"
+msgid "Spend Spell {0}"
+msgstr ""
+
+msgctxt "Reaction/&SpendSpellSlot{0}Title"
+msgid "Spend Spell {0}"
+msgstr ""
+
+msgctxt "Reaction/&SubitemSelectPowerBundleTitle"
+msgid "Options"
+msgstr ""
+
+msgctxt "Reaction/&SubitemSelectSlotLevelTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "Reaction/&Use{0}Description"
+msgid "Use {0}"
+msgstr ""
+
+msgctxt "Reaction/&Use{0}Title"
+msgid "Use {0}"
+msgstr ""
+
+msgctxt "Requirement/&FeatureSelectionRequireCharacterLevel"
+msgid "Level {0}"
+msgstr ""
+
+msgctxt "Requirement/&FeatureSelectionRequireClassLevel"
+msgid "Level {0} of {1}"
+msgstr ""
+
+msgctxt "RestActivity/&RestActivityPowerAfterRestIdentify"
+msgid "Identify"
+msgstr ""
+
+msgctxt "RestActivity/&RestActivityPowerAfterRestIdentifyDescription"
+msgid "Identify magic items"
+msgstr ""
+
+msgctxt "RestActivity/&RestActivityRespecDescription"
+msgid "Respec this Hero."
+msgstr ""
+
+msgctxt "RestActivity/&RestActivityRespecTitle"
+msgid "Respec"
+msgstr ""
+
+msgctxt "Rules/&CounterFormDismissCreatureFormat"
+msgid "Dismisses a target conjured creature"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1000Format"
+msgid "Main weapon is melee:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1001Format"
+msgid "Wearing no armor or light armor without shield:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1002Format"
+msgid "Wearing no armor or light armor with two-handed quarterstaff:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1003Format"
+msgid "Target is not source of the effect:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1004Format"
+msgid "Summoner is next to beast:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1005Format"
+msgid "Main weapon is specialized:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1006Format"
+msgid "Has longsword in hands:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1007Format"
+msgid "Main greatsword in hands:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1008Format"
+msgid "Is not in bright light:"
+msgstr ""
+
+msgctxt "Screen/&ClassExtraSpellDescriptionFormat"
+msgid "You know this spell from {0} class."
+msgstr ""
+
+msgctxt "Screen/&EditorLocationSize3Title"
+msgid "Huge [MODDED]"
+msgstr ""
+
+msgctxt "Screen/&EditorLocationSize4Title"
+msgid "Gargantuan [MODDED]"
+msgstr ""
+
+msgctxt "Screen/&InvocationPoolSignatureSpellsHeader"
+msgid "Signature Spells"
+msgstr ""
+
+msgctxt "Screen/&MulticlassExtraSpellDescription"
+msgid "You know this spell from other repertoire."
+msgstr ""
+
+msgctxt "Screen/&MulticlassExtraSpellTitle"
+msgid "Multiclass"
+msgstr ""
+
+msgctxt "Screen/&RaceExtraSpellDescription"
+msgid "You know this spell from your heritage."
+msgstr ""
+
+msgctxt "Screen/&RaceExtraSpellTitle"
+msgid "Heritage"
+msgstr ""
+
+msgctxt "Screen/&RangerSpellDescription"
+msgid ""
+"This spell has been granted by your Ranger archetype and is considered known "
+"to you."
+msgstr ""
+
+msgctxt "Screen/&RangerSpellTitle"
+msgid "Ranger"
+msgstr ""
+
+msgctxt "Screen/&RepertoireHeaderFormat"
+msgid "{0}"
+msgstr ""
+
+msgctxt "Screen/&RoguishSpellDescription"
+msgid ""
+"This spell has been granted by your Roguish archetype and is considered "
+"known to you."
+msgstr ""
+
+msgctxt "Screen/&RoguishSpellTitle"
+msgid "Roguish"
+msgstr ""
+
+msgctxt "Screen/&SpellSlotsUsedLongDescription"
+msgid "You have expended {0} spell slot(s) at this level."
+msgstr ""
+
+msgctxt "Screen/&SpellSlotsUsedShortDescription"
+msgid "You have expended {0} pact magic slot(s)."
+msgstr ""
+
+msgctxt "Screen/&SpellSlotsUsedShortLongDescription"
+msgid ""
+"You have expended {0} pact magic slot(s) and {1} spell slot(s) at this level."
+msgstr ""
+
+msgctxt "Screen/&SubclassClassExtraSpellDescriptionFormat"
+msgid "You know this spell from {0} subclass."
+msgstr ""
+
+msgctxt "Screen/&SwitchConfigurationDescription"
+msgid ""
+"Switch your equipped items to this configuration: {0}.\\n"
+"Hold CTRL to keep off-hand if possible."
+msgstr ""
+
+msgctxt "Spell/&ConjureElementalInvisibleStalkerTitle"
+msgid "Conjure Elemental [Invisible Stalker]"
+msgstr ""
+
+msgctxt "Stage/&IdentityMorphotypeEyeHeader"
+msgid "Eye Style"
+msgstr ""
+
+msgctxt "ToolTip/&CheckBoxDefaultPartyTitle"
+msgid ""
+"Check this box to set your default party when starting new adventures or "
+"testing custom locations. You can select up to {0} heroes in a first-in / "
+"first-out basis"
+msgstr ""
+
+msgctxt "Tooltip/&ChannelDivinityPortraitPoolFormat"
+msgid ""
+"You have {0} out of {1} uses of Channel Divinity.\\n"
+"All uses are restored on short or long rest."
+msgstr ""
+
+msgctxt "Tooltip/&CustomMapMarkerCamp"
+msgid "Camp"
+msgstr ""
+
+msgctxt "Tooltip/&CustomMapMarkerExit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Tooltip/&CustomMapMarkerTeleport"
+msgid "Teleporter"
+msgstr ""
+
+msgctxt "Tooltip/&FeatGroupTitle"
+msgid "Feat Group"
+msgstr ""
+
+msgctxt "Tooltip/&InvocationUsageShortRestAvailableDescription"
+msgid ""
+"Once it has been used, this invocation will require a short or long rest to "
+"be activated again."
+msgstr ""
+
+msgctxt "Tooltip/&InvocationUsageShortRestUsedDescription"
+msgid "This invocation requires a short or long rest to be activated again."
+msgstr ""
+
+msgctxt "Tooltip/&MonsterNaturalArmorTitle"
+msgid "Natural Armor"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqDoesNotKnow"
+msgid "Doesn't know {0}"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqIs"
+msgid "Is {0}"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqIsNot"
+msgid "Isn't {0}"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqIsWithLevel"
+msgid "Is {0} level {1}"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqLevelFormat"
+msgid "Min Character Level {0}"
+msgstr ""
+
+msgctxt "Tooltip/&PreReqMustKnow"
+msgid "Must know {0}"
+msgstr ""
+
+msgctxt "Tooltip/&Tag9000Title"
+msgid "Custom Effect"
+msgstr ""
+
+msgctxt "Tooltip/&TagUnfinishedBusinessTitle"
+msgid "Unfinished Business"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionStageDescription"
+msgid "Select extra features for your class/subclass."
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionStageFeatures"
+msgid "Features"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionStageNotDone"
+msgid "You must select all available features before proceeding"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionStageTitle"
+msgid "Feature Selection"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeCantrip"
+msgid "Cantrip"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeFeature"
+msgid "Feature"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeKindredSpiritChoice"
+msgid "Sorcerous Draconic Ancestry"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeMonkWeaponSpecialization"
+msgid "Monk Weapon Specialization"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypePathClawDraconicChoice"
+msgid "Claw Draconic Ancestry"
+msgstr ""
+
+msgctxt ""
+"UI/&CustomFeatureSelectionTooltipTypePathOfTheElementsElementalFuryChoice"
+msgid "Elemental Fury"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypePower"
+msgid "Power"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeProficiency"
+msgid "Proficiency"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeRangerPreferredEnemy"
+msgid "Preferred Enemy"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeRangerTerrainTypeAffinity"
+msgid "Terrain Type Affinity"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeSignatureSpells"
+msgid "Signature Spell"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeSorcererDraconicChoice"
+msgid "Sorcerous Draconic Ancestry"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeWayOfTheDragonDraconicChoice"
+msgid "Sorcerous Draconic Ancestry"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeWeaponSpecialization"
+msgid "Weapon Training"
+msgstr ""
+
+msgctxt "UI/&ForcePreferredCantripDescription"
+msgid ""
+"If this toggled is ON, only the preferred cantrip can trigger. If the "
+"preferred cantrip isn't selected, then the first valid cantrip will trigger, "
+"regardless of this toggle."
+msgstr ""
+
+msgctxt "UI/&ForcePreferredCantripTitle"
+msgid "Force Preferred Cantrip"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterCategory"
+msgid "Category"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterCost"
+msgid "Cost"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterCostPerWeight"
+msgid "Cost per Weight"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterName"
+msgid "Name"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterWeight"
+msgid "Weight"
+msgstr ""
+
+msgctxt "UI/&RecipeFilterAll"
+msgid "All"
+msgstr ""
+
+msgctxt "UI/&RecipeFilterAmmunition"
+msgid "Ammunition"
+msgstr ""
+
+msgctxt "UI/&RecipeFilterArmor"
+msgid "Armor"
+msgstr ""
+
+msgctxt "UI/&RecipeFilterUsableDevices"
+msgid "Usable Devices"
+msgstr ""
+
+msgctxt "UI/&RecipeFilterWeapons"
+msgid "Weapon"
+msgstr ""
