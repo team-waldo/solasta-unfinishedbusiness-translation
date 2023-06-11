@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-05 22:02+0900\n"
-"PO-Revision-Date: 2023-06-09 12:53+0000\n"
+"PO-Revision-Date: 2023-06-11 07:53+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "solasta-unfinished-business/subclasses/ko/>\n"
@@ -41,7 +41,7 @@ msgstr "1시간 동안 산성 피해 저항을 얻습니다."
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityAcidResistanceTitle"
 msgid "Brew of Acid Protection"
-msgstr ""
+msgstr "산성 보호 양조주"
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityLightningResistanceDescription"
 msgid "Gain resistance to lightning damage for 1 hour."
@@ -49,7 +49,7 @@ msgstr "1시간 동안 번개 피해 저항을 얻습니다."
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityLightningResistanceTitle"
 msgid "Brew of Lightning Protection"
-msgstr ""
+msgstr "번개 보호 양조주"
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityNecroticResistanceDescription"
 msgid "Gain resistance to necrotic damage for 1 hour."
@@ -57,7 +57,7 @@ msgstr "1시간 동안 사령 피해 저항을 얻습니다."
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityNecroticResistanceTitle"
 msgid "Brew of Necrotic Protection"
-msgstr ""
+msgstr "사령 보호 양조주"
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityPoisonResistanceDescription"
 msgid "Gain resistance to poison damage for 1 hour."
@@ -65,7 +65,7 @@ msgstr "1시간 동안 독성 피해 저항을 얻습니다."
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityPoisonResistanceTitle"
 msgid "Brew of Poison Protection"
-msgstr ""
+msgstr "독성 보호 양조주"
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityRadiantResistanceDescription"
 msgid "Gain resistance to radiant damage for 1 hour."
@@ -73,15 +73,15 @@ msgstr "1시간 동안 광휘 피해 저항을 얻습니다."
 
 msgctxt "Equipment/&HerbalBrewDamageAffinityRadiantResistanceTitle"
 msgid "Brew of Radiant Protection"
-msgstr ""
+msgstr "광휘 보호 양조주"
 
 msgctxt "Equipment/&HerbalBrewHealingTitle"
 msgid "Brew of Quickening"
-msgstr ""
+msgstr "가속화 양조주"
 
 msgctxt "Equipment/&HerbalBrewToxifyingTitle"
 msgid "Brew of Toxifying"
-msgstr ""
+msgstr "맹독화 양조주"
 
 msgctxt "Feature/&AttributeModifierAncientForestBarkskinDescription"
 msgid "Armor class is set to 16."
@@ -89,14 +89,13 @@ msgstr "방어도가 16이 됩니다."
 
 msgctxt "Feature/&AttributeModifierAncientForestBarkskinTitle"
 msgid "Barkskin"
-msgstr ""
+msgstr "나무껍질 피부"
 
-#, fuzzy
 msgctxt "Feature/&BonusCantripAncientForestDescription"
 msgid ""
 "Your learn secrets on the nature of how natural magic and life energy are "
 "connected. Your learn Shillelagh and Chill Touch."
-msgstr "자연 마법과 생명 에너지가 어떻게 연결되었는지에 대한 자연의 신비를 터득합니다. ~~~."
+msgstr "자연 마법과 생명 에너지가 어떻게 연결되었는지에 대한 자연의 신비를 터득합니다. 마력곤봉과 냉랭한 접촉 캔트립을 습득합니다."
 
 msgctxt "Feature/&BonusCantripAncientForestTitle"
 msgid "Ancient Forest Bonus Cantrips"
@@ -105,7 +104,7 @@ msgstr "고대 숲 추가 캔트립"
 msgctxt "Feature/&FeatureSetWallOfThornsDescription"
 msgid ""
 "Cast Wall of Thorns a number of times a day equal to your proficiency bonus."
-msgstr ""
+msgstr "하루에 자신의 숙련 보너스와 같은 횟수만큼 가시의 벽 주문을 시전합니다."
 
 msgctxt "Feature/&FeatureSetWallOfThornsTitle"
 msgid "Forest Barrier"
@@ -169,56 +168,56 @@ msgstr ""
 
 msgctxt "Feature/&PowerPoolAncientForestHerbalBrewTitle"
 msgid "Herbal Brewing"
-msgstr ""
+msgstr "약초주 빚기"
 
 msgctxt "Feature/&PowerPoolAncientForestWallOfThornsDescription"
 msgid ""
 "You can cast Wall of Thorns a number of times equals to your Wisdom "
 "modifier. It recharges on long rests."
-msgstr ""
+msgstr "자신의 지혜 수정치와 같은 횟수만큼 가시의 벽 주문을 시전할 수 있습니다. 긴 휴식 종료마다 사용량이 충전됩니다."
 
 msgctxt "Feature/&PowerPoolAncientForestWallOfThornsTitle"
 msgid "Wall of Thorns"
-msgstr ""
+msgstr "가시의 벽"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewDamageAffinityAcidResistancePowerUsedWhileTr"
 "avellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewDamageAffinityLightningResistancePowerUsedWh"
 "ileTravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewDamageAffinityNecroticResistancePowerUsedWhi"
 "leTravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewDamageAffinityPoisonResistancePowerUsedWhile"
 "TravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewDamageAffinityRadiantResistancePowerUsedWhil"
 "eTravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt "Feedback/&AncientForestHerbalBrewHealingPowerUsedWhileTravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt ""
 "Feedback/&AncientForestHerbalBrewToxifyingPowerUsedWhileTravellingFormat"
 msgid "{0} creates {1}"
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 제조했습니다"
 
 msgctxt "Subclass/&CircleOfTheAncientForestDescription"
 msgid ""
@@ -231,7 +230,7 @@ msgstr ""
 
 msgctxt "Subclass/&CircleOfTheAncientForestTitle"
 msgid "Circle of the Ancient Fores"
-msgstr ""
+msgstr "고대 포자의 회합"
 
 msgctxt "Condition/&ConditionForestGuardianBarkWardDescription"
 msgid ""
@@ -241,7 +240,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionForestGuardianBarkWardTitle"
 msgid "Bark Ward"
-msgstr ""
+msgstr "나무껍질 방비"
 
 msgctxt "Condition/&ConditionForestGuardianImprovedBarkWardDescription"
 msgid ""
@@ -251,7 +250,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionForestGuardianImprovedBarkWardTitle"
 msgid "Improved Bark Ward"
-msgstr ""
+msgstr "강화된 나무껍질 방비"
 
 msgctxt "Condition/&ConditionForestGuardianSuperiorBarkWardDescription"
 msgid ""
@@ -261,7 +260,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionForestGuardianSuperiorBarkWardTitle"
 msgid "Superior Bark Ward"
-msgstr ""
+msgstr "우월한 나무껍질 방비"
 
 msgctxt "Feature/&AttributeModifierForestGuardianExtraAttackDescription"
 msgid ""
@@ -271,7 +270,7 @@ msgstr ""
 
 msgctxt "Feature/&AttributeModifierForestGuardianExtraAttackTitle"
 msgid "Extra Attack"
-msgstr ""
+msgstr "추가공격"
 
 msgctxt "Feature/&AttributeModifierForestGuardianSylvanDurabilityDescription"
 msgid ""
@@ -282,7 +281,7 @@ msgstr ""
 
 msgctxt "Feature/&AttributeModifierForestGuardianSylvanDurabilityTitle"
 msgid "Sylvan Durability"
-msgstr ""
+msgstr "실프의 내구성"
 
 msgctxt "Feature/&MagicAffinityForestGuardianSylvanWarMagicDescription"
 msgid ""
@@ -293,7 +292,7 @@ msgstr ""
 
 msgctxt "Feature/&MagicAffinityForestGuardianSylvanWarMagicTitle"
 msgid "Sylvan War Magic"
-msgstr ""
+msgstr "실프 전쟁 마법"
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianBarkWardDescription"
 msgid ""
@@ -305,7 +304,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianBarkWardTitle"
 msgid "Bark Ward"
-msgstr ""
+msgstr "나무껍질 방비"
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianImprovedBarkWardDescription"
 msgid ""
@@ -315,7 +314,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianImprovedBarkWardTitle"
 msgid "Improved Bark Ward"
-msgstr ""
+msgstr "강화된 나무껍질 방비"
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianSuperiorBarkWardDescription"
 msgid ""
@@ -326,7 +325,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSharedPoolForestGuardianSuperiorBarkWardTitle"
 msgid "Superior Bark Ward"
-msgstr ""
+msgstr "우월한 나무껍질 방비"
 
 msgctxt "Subclass/&CircleOfTheForestGuardianDescription"
 msgid ""
@@ -338,7 +337,7 @@ msgstr ""
 
 msgctxt "Subclass/&CircleOfTheForestGuardianTitle"
 msgid "Circle of the Forest Guardia"
-msgstr ""
+msgstr "숲의 회합 수호자"
 
 msgctxt "Condition/&ConditionCircleOfTheLifeRevitalizingBoonDescription"
 msgid ""
@@ -348,7 +347,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionCircleOfTheLifeRevitalizingBoonTitle"
 msgid "Revitalizing Boon"
-msgstr ""
+msgstr "재활성화의 은혜"
 
 msgctxt "Condition/&ConditionCircleOfTheLifeSeedOfLifeDescription"
 msgid ""
@@ -359,7 +358,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionCircleOfTheLifeSeedOfLifeTitle"
 msgid "Seed of Life"
-msgstr ""
+msgstr "생명의 씨앗"
 
 msgctxt "Condition/&ConditionCircleOfTheLifeVerdancyDescription"
 msgid ""
@@ -379,7 +378,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureCircleOfTheLifeRevitalizingBoonTitle"
 msgid "Revitalizing Boon"
-msgstr ""
+msgstr "재활성화의 은혜"
 
 msgctxt "Feature/&FeatureCircleOfTheLifeVerdancyDescription"
 msgid ""
@@ -402,7 +401,7 @@ msgstr ""
 
 msgctxt "Feature/&MagicAffinityCircleOfTheLifeHarmoniousBloomTitle"
 msgid "Harmonious Bloom"
-msgstr ""
+msgstr "화합의 꽃봉오리"
 
 msgctxt "Feature/&PowerCircleOfTheLifeSeedOfLifeDescription"
 msgid ""
@@ -420,7 +419,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheLifeSeedOfLifeTitle"
 msgid "Seed of Life"
-msgstr ""
+msgstr "생명의 씨앗"
 
 msgctxt "Subclass/&CircleOfTheLifeDescription"
 msgid ""
@@ -432,7 +431,7 @@ msgstr ""
 
 msgctxt "Subclass/&CircleOfTheLifeTitle"
 msgid "Circle of the Eternal Grov"
-msgstr ""
+msgstr "영원한 숲의 회합"
 
 msgctxt "Feature/&FeatureSetCircleOfTheNightElementalFormsDescription"
 msgid ""
@@ -442,7 +441,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetCircleOfTheNightElementalFormsTitle"
 msgid "Elemental Forms"
-msgstr ""
+msgstr "정령 형상"
 
 msgctxt "Feature/&FeatureSetCircleOfTheNightMonstrousFormsDescription"
 msgid ""
@@ -452,7 +451,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetCircleOfTheNightMonstrousFormsTitle"
 msgid "Monstrous Forms"
-msgstr ""
+msgstr "괴물 형상"
 
 msgctxt "Feature/&PowerCircleOfTheNightPrimalStrikeDescription"
 msgid ""
@@ -464,7 +463,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightPrimalStrikeTitle"
 msgid "Primal Strike"
-msgstr ""
+msgstr "원시의 일격"
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeCombatDescription"
 msgid ""
@@ -475,7 +474,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeCombatTitle"
 msgid "Combat Wild Shape"
-msgstr ""
+msgstr "전투 야생 변신"
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeHealingDescription"
 msgid ""
@@ -486,7 +485,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeHealingTitle"
 msgid "Combat Healing"
-msgstr ""
+msgstr "전투 치유"
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeImprovedHealingDescription"
 msgid "Your Combat Healing now heals you for 2d8 hit points."
@@ -494,7 +493,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeImprovedHealingTitle"
 msgid "Improved Combat Healing"
-msgstr ""
+msgstr "강화된 전투 치유"
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeMasterfulHealingDescription"
 msgid "Your Combat Healing now heals you for 4d8 hit points."
@@ -502,7 +501,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeMasterfulHealingTitle"
 msgid "Superb Combat Healing"
-msgstr ""
+msgstr "우수한 전투 치유"
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeSuperiorHealingDescription"
 msgid "Your Combat Healing now heals you for 3d8 hit points."
@@ -510,7 +509,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerCircleOfTheNightWildShapeSuperiorHealingTitle"
 msgid "Superior Combat Healing"
-msgstr ""
+msgstr "우월한 전투 치유"
 
 msgctxt "Monster/&WildShapeDireBearDescription"
 msgid ""
@@ -532,7 +531,7 @@ msgstr ""
 
 msgctxt "Monster/&WildShapeMinotaurEliteTitle"
 msgid "Greymane Minotaur"
-msgstr ""
+msgstr "회색갈기 미노타우로스"
 
 msgctxt "Monster/&WildShapeWaterElementalDescription"
 msgid ""
@@ -542,7 +541,7 @@ msgstr ""
 
 msgctxt "Monster/&WildShapeWaterElementalTitle"
 msgid "Water Elemental"
-msgstr ""
+msgstr "물의 정령"
 
 msgctxt "Subclass/&CircleOfTheNightDescription"
 msgid ""
@@ -555,7 +554,7 @@ msgstr ""
 
 msgctxt "Subclass/&CircleOfTheNightTitle"
 msgid "Circle of the Nigh"
-msgstr ""
+msgstr "밤의 회합"
 
 msgctxt "Subclass/&CollegeOfGutsDescription"
 msgid ""
@@ -565,27 +564,30 @@ msgid ""
 "events doesn't pass from the world. With their songs, they inspire others to "
 "reach the same heights of accomplishment as the heroes of old."
 msgstr ""
+"배포 학파의 바드들은 초원이나 모닥불 주위에 모여 과거와 현재의 영웅들의 업적을 노래합니다. 이들은 위대한 사건들을 자신들의 두 눈으로 "
+"직접 목격하고, 그에 대한 기억이 세상에서 사라지지 않게 하기 위해 이 땅을 여행합니다. 이들은 자신의 노래로, 다른 사람들이 옛 "
+"영웅들의 업적에 도달할 수 있도록 영감을 불어 넣습니다."
 
 msgctxt "Subclass/&CollegeOfGutsTitle"
 msgid "College of Gut"
-msgstr ""
+msgstr "배포 학파"
 
 msgctxt ""
 "Condition/&ConditionCollegeOfHarlequinFightingAbilityEnhancedDescription"
 msgid "Your fighting ability is greatly enhanced."
-msgstr ""
+msgstr "전투력이 크게 강화됐습니다."
 
 msgctxt "Condition/&ConditionCollegeOfHarlequinFightingAbilityEnhancedTitle"
 msgid "Inspired"
-msgstr ""
+msgstr "사기충천"
 
 msgctxt "Condition/&ConditionTerrifiedByHarlequinPerformanceDescription"
 msgid "Terrified after witnessing an ally has been murdered brutally."
-msgstr ""
+msgstr "아군이 끔찍하게 살해당한 걸 목격하고 겁에 질렸습니다."
 
 msgctxt "Condition/&ConditionTerrifiedByHarlequinPerformanceTitle"
 msgid "Terrified"
-msgstr ""
+msgstr "질겁"
 
 msgctxt ""
 "Feature/&AttackModifierCollegeOfHarlequinCombatInspirationAttackEnhancementDe"
@@ -693,7 +695,7 @@ msgstr ""
 
 msgctxt "Subclass/&CollegeOfHarlequinTitle"
 msgid "College of Harlequi"
-msgstr ""
+msgstr "어릿광대 학파"
 
 msgctxt "Condition/&ConditionCollegeOfLifeConstitutionDescription"
 msgid ""
@@ -803,7 +805,7 @@ msgstr ""
 
 msgctxt "Subclass/&CollegeOfLifeTitle"
 msgid "College of Lif"
-msgstr ""
+msgstr "생명 학파"
 
 msgctxt "Condition/&ConditionCharmedByDanceOfWarDescription"
 msgid "Armor class reduced by Charisma modifier."
@@ -926,7 +928,7 @@ msgstr ""
 
 msgctxt "Subclass/&CollegeOfWarDancerTitle"
 msgid "College of War Dance"
-msgstr ""
+msgstr "무도 학파"
 
 msgctxt "Condition/&ConditionDomainDefilerInsidiousDeathMagicDescription"
 msgid "You have been cursed by a Defiler. You can no longer gain hits points."
@@ -1018,7 +1020,7 @@ msgstr ""
 
 msgctxt "Subclass/&DomainDefilerTitle"
 msgid "Defiler"
-msgstr ""
+msgstr "모독자"
 
 msgctxt "Condition/&ConditionDomainSmithAdamantBenedictionDescription"
 msgid "Your armor strengthens to adamantine, halving critical damage."
@@ -1243,7 +1245,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyBombsElementalTitle"
 msgid "Elemental Bombs"
-msgstr ""
+msgstr "원소 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageAcidDescription"
 msgid ""
@@ -1253,7 +1255,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageAcidTitle"
 msgid "Acid Bombs"
-msgstr ""
+msgstr "산성 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageColdDescription"
 msgid ""
@@ -1263,7 +1265,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageColdTitle"
 msgid "Cold Bombs"
-msgstr ""
+msgstr "냉기 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageFireDescription"
 msgid ""
@@ -1272,7 +1274,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageFireTitle"
 msgid "Fire Bombs"
-msgstr ""
+msgstr "화염 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageForceDescription"
 msgid ""
@@ -1282,7 +1284,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageForceTitle"
 msgid "Force Bombs"
-msgstr ""
+msgstr "역장 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageLightningDescription"
 msgid ""
@@ -1292,7 +1294,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageLightningTitle"
 msgid "Lightning Bombs"
-msgstr ""
+msgstr "번개 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageNecroticDescription"
 msgid ""
@@ -1303,7 +1305,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageNecroticTitle"
 msgid "Necrotic Bombs"
-msgstr ""
+msgstr "사령 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamagePoisonDescription"
 msgid ""
@@ -1313,7 +1315,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamagePoisonTitle"
 msgid "Poison Bombs"
-msgstr ""
+msgstr "독성 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamagePsychicDescription"
 msgid ""
@@ -1324,7 +1326,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamagePsychicTitle"
 msgid "Psychic Bombs"
-msgstr ""
+msgstr "정신 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageRadiantDescription"
 msgid ""
@@ -1334,7 +1336,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageRadiantTitle"
 msgid "Radiant Bombs"
-msgstr ""
+msgstr "광휘 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageThunderDescription"
 msgid ""
@@ -1345,7 +1347,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyMarkerDamageThunderTitle"
 msgid "Thunder Bombs"
-msgstr ""
+msgstr "천둥 폭탄"
 
 msgctxt "Feature/&PowerInnovationAlchemyPoolDescription"
 msgid "You gain 6 Alchemy points at this level, and 1 more point every level."
@@ -1353,7 +1355,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationAlchemyPoolTitle"
 msgid "Alchemy Points"
-msgstr ""
+msgstr "연금술 점수"
 
 msgctxt "Screen/&InventorGrenadierSpellDescription"
 msgid ""
@@ -1435,7 +1437,7 @@ msgstr ""
 
 msgctxt "Feature/&AttributeModifierInnovationArmorExtraAttackTitle"
 msgid "Extra Attack"
-msgstr ""
+msgstr "추가 공격"
 
 msgctxt "Feature/&AutoPreparedSpellsInnovationArmorDescription"
 msgid ""
@@ -1446,7 +1448,7 @@ msgstr ""
 
 msgctxt "Feature/&AutoPreparedSpellsInnovationArmorTitle"
 msgid "Armorer Spells"
-msgstr ""
+msgstr "아머러 주문"
 
 msgctxt "Feature/&FeatureSetInnovationArmorArmoredUpDescription"
 msgid ""
@@ -1557,11 +1559,11 @@ msgstr ""
 
 msgctxt "Item/&CELightningLauncherTitle"
 msgid "Lightning Launcher"
-msgstr ""
+msgstr "벼락포"
 
 msgctxt "Item/&CEThunderGauntletTitle"
 msgid "Thunder Gauntlet"
-msgstr ""
+msgstr "우레 건틀릿"
 
 msgctxt "Screen/&InventorArmorerSpellDescription"
 msgid ""
@@ -1571,7 +1573,7 @@ msgstr ""
 
 msgctxt "Screen/&InventorArmorerSpellTitle"
 msgid "Armorer"
-msgstr ""
+msgstr "아머러"
 
 msgctxt "Subclass/&InnovationArmorDescription"
 msgid ""
@@ -1581,7 +1583,7 @@ msgstr ""
 
 msgctxt "Subclass/&InnovationArmorTitle"
 msgid "Armore"
-msgstr ""
+msgstr "아머러"
 
 msgctxt "Condition/&ConditionInnovationArtilleristFortifiedPositionDescription"
 msgid ""
@@ -1603,7 +1605,7 @@ msgstr ""
 
 msgctxt "Feature/&AutoPreparedSpellsInnovationArtilleristTitle"
 msgid "Artillerist Spells"
-msgstr ""
+msgstr "아틸러리스트 주문"
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristArcaneFirearmDescription"
 msgid ""
@@ -1616,7 +1618,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristArcaneFirearmTitle"
 msgid "Arcane Firearm"
-msgstr ""
+msgstr "비전 화기"
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristEldritchCannonDescription"
 msgid ""
@@ -1635,7 +1637,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristEldritchCannonTitle"
 msgid "Eldritch Cannon"
-msgstr ""
+msgstr "엘드리치 대포"
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristExplosiveCannonDescription"
 msgid ""
@@ -1651,7 +1653,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristExplosiveCannonTitle"
 msgid "Explosive Cannon"
-msgstr ""
+msgstr "폭발성 대포"
 
 msgctxt "Feature/&FeatureSetInnovationArtilleristFortifiedPositionDescription"
 msgid ""
@@ -1674,7 +1676,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonActivateTitle"
 msgid "Summon Cannon"
-msgstr ""
+msgstr "대포 소환"
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonCommandDescription"
 msgid ""
@@ -1685,7 +1687,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonCommandTitle"
 msgid "Command Cannon"
-msgstr ""
+msgstr "대포 조종"
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonDetonateDescription"
 msgid ""
@@ -1697,19 +1699,19 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonDetonateTitle"
 msgid "Detonate Cannon"
-msgstr ""
+msgstr "대포 폭파"
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonDismissDescription"
 msgid "Dismiss an eldritch cannon."
-msgstr ""
+msgstr "엘드리치 대포를 제거합니다."
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonDismissTitle"
 msgid "Dismiss Cannon"
-msgstr ""
+msgstr "대포 제거"
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonRefundDescription"
 msgid "You can spend one spell slot to refund an eldritch cannon usage."
-msgstr ""
+msgstr "주문 슬롯 1개를 소모해 엘드리치 대포 사용량 1회를 충전할 수 있습니다."
 
 msgctxt "Feature/&PowerInnovationArtilleristEldritchCannonRefundTitle"
 msgid "Refund Cannon"
@@ -1726,7 +1728,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristFlamethrowerTitle"
 msgid "Flame Thrower"
-msgstr ""
+msgstr "화염 방사기"
 
 msgctxt "Feature/&PowerInnovationArtilleristForceBallistaDescription"
 msgid ""
@@ -1738,7 +1740,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristForceBallistaTitle"
 msgid "Force Ballista"
-msgstr ""
+msgstr "역장 발리스타"
 
 msgctxt "Feature/&PowerInnovationArtilleristProtectorDescription"
 msgid ""
@@ -1749,23 +1751,23 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationArtilleristProtectorTitle"
 msgid "Protector"
-msgstr ""
+msgstr "파수기"
 
 msgctxt "Feature/&PowerInnovationArtilleristSummonFlamethrowerTinyTitle"
 msgid "Flame Thrower [tiny]"
-msgstr ""
+msgstr "화염 방사기 [초소형]"
 
 msgctxt "Feature/&PowerInnovationArtilleristSummonForceBallistaTinyTitle"
 msgid "Force Ballista [tiny]"
-msgstr ""
+msgstr "역장 발리스타 [초소형]"
 
 msgctxt "Feature/&PowerInnovationArtilleristSummonProtectorTinyTitle"
 msgid "Protector [tiny]"
-msgstr ""
+msgstr "파수기 [초소형]"
 
 msgctxt "Feedback/&AdditionalDamageArcaneFirearmFormat"
 msgid "Arcane Firearm!"
-msgstr ""
+msgstr "비전 화기!"
 
 msgctxt "Feedback/&AdditionalDamageArcaneFirearmLine"
 msgid "{0} performs an arcane firearm attack on {1} (+{2})"
@@ -1779,7 +1781,7 @@ msgstr ""
 
 msgctxt "Screen/&InventorArtilleristSpellTitle"
 msgid "Artillerist"
-msgstr ""
+msgstr "아틸러리스트"
 
 msgctxt "Subclass/&InnovationArtilleristDescription"
 msgid ""
@@ -1790,7 +1792,7 @@ msgstr ""
 
 msgctxt "Subclass/&InnovationArtilleristTitle"
 msgid "Artilleris"
-msgstr ""
+msgstr "아틸러리스트"
 
 msgctxt "Condition/&ConditionInnovationWeaponSummonSteelDefenderSpellAttackTitle"
 msgid "Spell attack bonus of its creator"
@@ -1804,7 +1806,7 @@ msgstr ""
 
 msgctxt "Feature/&AttributeModifierInnovationWeaponExtraAttackTitle"
 msgid "Extra Attack"
-msgstr ""
+msgstr "추가 공격"
 
 msgctxt "Feature/&AutoPreparedSpellsInnovationWeaponDescription"
 msgid ""
@@ -1815,7 +1817,7 @@ msgstr ""
 
 msgctxt "Feature/&AutoPreparedSpellsInnovationWeaponTitle"
 msgid "Weaponsmith Spells"
-msgstr ""
+msgstr "웨폰스미스 주문"
 
 msgctxt "Feature/&FeatureSetInnovationWeaponImprovedDefenderDescription"
 msgid ""
@@ -1880,7 +1882,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerInnovationWeaponSteelDefenderRepairTitle"
 msgid "Self Repair"
-msgstr ""
+msgstr "자가 수리"
 
 msgctxt "Feature/&PowerInnovationWeaponSummonSteelDefenderDescription"
 msgid ""
@@ -1954,7 +1956,7 @@ msgstr ""
 
 msgctxt "Screen/&InventorWeaponsmithSpellTitle"
 msgid "Weaponsmith"
-msgstr ""
+msgstr "웨폰스미스"
 
 msgctxt "Subclass/&InnovationWeaponDescription"
 msgid ""
@@ -1964,7 +1966,7 @@ msgstr ""
 
 msgctxt "Subclass/&InnovationWeaponTitle"
 msgid "Weaponsmit"
-msgstr ""
+msgstr "웨폰스미스"
 
 msgctxt "Feature/&FeatureMarshalKnowledgeableDefenseDescription"
 msgid ""
@@ -1986,7 +1988,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetMarshalEternalComradeTitle"
 msgid "Eternal Comrade"
-msgstr ""
+msgstr "영원한 전우"
 
 msgctxt "Feature/&FeatureSetMarshalFearlessCommanderDescription"
 msgid "You are immune to fear effect."
@@ -2004,7 +2006,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetMarshalKnowYourEnemyTitle"
 msgid "Know Your Enemy"
-msgstr ""
+msgstr "네 적을 알라"
 
 msgctxt "Feature/&PowerMarshalEncouragementDescription"
 msgid ""
@@ -2034,7 +2036,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerMarshalStudyYourEnemyTitle"
 msgid "Study Your Enemy"
-msgstr ""
+msgstr "네 적을 연구하라"
 
 msgctxt "Feature/&PowerMarshalSummonEternalComradeDescription"
 msgid ""
@@ -2061,7 +2063,7 @@ msgstr ""
 
 msgctxt "Feature/&ReactToAttackFinishedMarshalCoordinatedAttackTitle"
 msgid "Coordinated Attack"
-msgstr ""
+msgstr "협동 공격"
 
 msgctxt "Monster/&MarshalEternalComradeDescription"
 msgid "Fallen Comrade."
@@ -2083,16 +2085,16 @@ msgstr ""
 
 msgctxt "Reaction/&ReactToAttackFinishedMarshalCoordinatedAttackReactTitle"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "Reaction/&ReactToAttackFinishedMarshalCoordinatedAttackTitle"
 msgid "Coordinated Attack"
-msgstr ""
+msgstr "협동 공격"
 
 msgctxt ""
 "Reaction/&SubitemSelectReactToAttackFinishedMarshalCoordinatedAttackTitle"
 msgid "Select action"
-msgstr ""
+msgstr "행동 선택"
 
 msgctxt "Subclass/&MartialMarshalDescription"
 msgid ""
@@ -2114,7 +2116,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetRoyalKnightRoyalEnvoyTitle"
 msgid "Royal Envoy"
-msgstr ""
+msgstr "특사"
 
 msgctxt "Feature/&PowerRoyalKnightInspiringProtectionDescription"
 msgid ""
@@ -2148,7 +2150,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerRoyalKnightRallyingCryTitle"
 msgid "Rallying Cry"
-msgstr ""
+msgstr "전투의 함성"
 
 msgctxt "Feature/&PowerRoyalKnightSpiritedSurgeDescription"
 msgid ""
@@ -2194,15 +2196,15 @@ msgstr ""
 
 msgctxt "Subclass/&MartialRoyalKnightTitle"
 msgid "Royal Knigh"
-msgstr ""
+msgstr "로열 나이트"
 
 msgctxt "Feature/&CastSpellSpellShieldDescription"
 msgid "Cast Wizard spells and cantrips."
-msgstr ""
+msgstr "위저드 주문과 캔트립을 시전합니다."
 
 msgctxt "Feature/&CastSpellSpellShieldTitle"
 msgid "Spellcasting"
-msgstr ""
+msgstr "주문시전"
 
 msgctxt "Feature/&MagicAffinitySpellShieldCombatMagicVigorDescription"
 msgid ""
@@ -2222,7 +2224,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpellShieldArcaneDeflectionTitle"
 msgid "Arcane Deflection"
-msgstr ""
+msgstr "마법 튕겨내기"
 
 msgctxt "Feature/&PowerSpellShieldRangedDeflectionDescription"
 msgid ""
@@ -2232,7 +2234,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpellShieldRangedDeflectionTitle"
 msgid "Ranged Deflection"
-msgstr ""
+msgstr "사격 튕겨내기"
 
 msgctxt "Subclass/&MartialSpellShieldDescription"
 msgid ""
@@ -2242,7 +2244,7 @@ msgstr ""
 
 msgctxt "Subclass/&MartialSpellShieldTitle"
 msgid "Spell Shiel"
-msgstr ""
+msgstr "주문 방패"
 
 msgctxt "Feature/&AttributeModifierTacticianEverVigilantDescription"
 msgid ""
@@ -2304,7 +2306,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetTacticianSharpMindDescription"
 msgid "Gain proficiency in one skill and expertise in one skill or tool."
-msgstr ""
+msgstr "기술 하나에 숙련을 얻고, 기술 또는 도구 하나에 전문화를 얻습니다."
 
 msgctxt "Feature/&FeatureSetTacticianSharpMindTitle"
 msgid "Sharp Mind"
@@ -2325,35 +2327,35 @@ msgstr ""
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD10Description"
 msgid "Your <b>gambit die</b> is upgraded to D10."
-msgstr ""
+msgstr "<b>승부수 주사위</b>가 D10이 됩니다."
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD10Title"
 msgid "<b>gambit die</b> Size (d10)"
-msgstr ""
+msgstr "<b>승부수 주사위</b> 크기 (D10)"
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD12Description"
 msgid "Your <b>gambit die</b> is upgraded to D12."
-msgstr ""
+msgstr "<b>승부수 주사위</b>가 D12가 됩니다."
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD12Title"
 msgid "<b>gambit die</b> Size (d12)"
-msgstr ""
+msgstr "<b>승부수 주사위</b> 크기 (D12)"
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD8Description"
 msgid "Your <b>gambit die</b> is upgraded to D8."
-msgstr ""
+msgstr "<b>승부수 주사위</b>가 D8이 됩니다."
 
 msgctxt "Feature/&FeatureTacticianGambitDieSizeD8Title"
 msgid "<b>gambit die</b> Size (d8)"
-msgstr ""
+msgstr "<b>승부수 주사위</b> 크기 (D8)"
 
 msgctxt "Feature/&InvocationPoolGambitLearn2Description"
 msgid "Learn 2 more gambits."
-msgstr ""
+msgstr "승부수를 추가로 2종 습득합니다."
 
 msgctxt "Feature/&InvocationPoolGambitLearn2Title"
 msgid "Additional Gambits"
-msgstr ""
+msgstr "추가 승부수"
 
 msgctxt "Feature/&InvocationPoolGambitLearn4Description"
 msgid ""
@@ -2366,23 +2368,23 @@ msgstr ""
 
 msgctxt "Feature/&InvocationPoolGambitLearn4Title"
 msgid "Gambits"
-msgstr ""
+msgstr "승부수"
 
 msgctxt "Feature/&InvocationPoolGambitLearnDescription"
 msgid "Select gambits to learn."
-msgstr ""
+msgstr "습득할 승부수를 선택하십시오."
 
 msgctxt "Feature/&InvocationPoolGambitLearnTitle"
 msgid "Learn Gambit"
-msgstr ""
+msgstr "승부수 습득"
 
 msgctxt "Feature/&InvocationPoolGambitUnlearnDescription"
 msgid "Select gambit to replace."
-msgstr ""
+msgstr "교체할 승부수를 선택하십시오."
 
 msgctxt "Feature/&InvocationPoolGambitUnlearnTitle"
 msgid "Replace Gambit"
-msgstr ""
+msgstr "승부수 교체"
 
 msgctxt "Feature/&PowerPoolTacticianGambitDescription"
 msgid ""
@@ -2393,7 +2395,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerPoolTacticianGambitTitle"
 msgid "Gambit Dice"
-msgstr ""
+msgstr "승부수 주사위"
 
 msgctxt "Feature/&PowerTacticianSharedVigilanceDescription"
 msgid ""
@@ -2407,19 +2409,19 @@ msgstr ""
 
 msgctxt "Feature/&PowerUseModifierTacticianGambitPoolDescription"
 msgid "You gain an additional <b>gambit die</b>."
-msgstr ""
+msgstr "추가 <b>승부수 주사위</b>를 얻습니다."
 
 msgctxt "Feature/&PowerUseModifierTacticianGambitPoolTitle"
 msgid "Additional <b>gambit die</b>"
-msgstr ""
+msgstr "추가 <b>승부수 주사위</b>"
 
 msgctxt "Feedback/&AdditionalDamageGambitDieFormat"
 msgid "Gambit!"
-msgstr ""
+msgstr "승부수!"
 
 msgctxt "Feedback/&AdditionalDamageGambitDieLine"
 msgid "{0} rolls a <b>gambit die</b> and deals +{2} extra damage!"
-msgstr ""
+msgstr "{0}이(가) <b>승부수 주사위</b>를 굴려 추가 피해 +{2}을(를) 가합니다!"
 
 msgctxt "Feedback/&AdditionalDamageTacticalAwarenessFormat"
 msgid "Tactical Awareness!"
@@ -2431,11 +2433,11 @@ msgstr ""
 
 msgctxt "Screen/&GambitDieDescription"
 msgid "Your <b>gambit die</b> is a {0} and you have {1} remaining uses."
-msgstr ""
+msgstr "<b>승부수 주사위</b>는 {0}이며, 남은 갯수는 {1}개입니다."
 
 msgctxt "Screen/&InvocationPoolGambitHeader"
 msgid "Gambits"
-msgstr ""
+msgstr "승부수"
 
 msgctxt "Subclass/&MartialTacticianDescription"
 msgid ""
@@ -2446,15 +2448,15 @@ msgstr ""
 
 msgctxt "Subclass/&MartialTacticianTitle"
 msgid "Tactician"
-msgstr ""
+msgstr "택티션"
 
 msgctxt "Tooltip/&CustomPortraitPoolPowerPoolTacticianGambit"
 msgid "<b>gambit dice</b>"
-msgstr ""
+msgstr "<b>승부수 주사위</b>"
 
 msgctxt "UI/&CustomFeatureSelectionTooltipTypeGambit"
 msgid "Gambi"
-msgstr ""
+msgstr "승부수"
 
 msgctxt "Condition/&ConditionMartialWeaponMasterFocusedStrikesDescription"
 msgid ""
@@ -2476,7 +2478,7 @@ msgstr ""
 
 msgctxt "Feature/&AttributeModifierMartialWeaponMasterSpecializationTitle"
 msgid "Weapon Specialization"
-msgstr ""
+msgstr "무기 특화"
 
 msgctxt "Feature/&FeatureMartialWeaponMasterBattleStanceDescription"
 msgid ""
@@ -2487,7 +2489,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureMartialWeaponMasterBattleStanceTitle"
 msgid "Battle Stance"
-msgstr ""
+msgstr "전투 태세"
 
 msgctxt "Feature/&FeatureMartialWeaponMasterDeadlyAccuracyDescription"
 msgid ""
@@ -2526,7 +2528,7 @@ msgstr ""
 
 msgctxt "Feature/&InvocationPoolMartialWeaponMasterLearnTitle"
 msgid "Weapon Specialization"
-msgstr ""
+msgstr "무기 특화"
 
 msgctxt "Feature/&PowerMartialWeaponMasterFocusedStrikesDescription"
 msgid ""
@@ -2578,7 +2580,7 @@ msgstr ""
 
 msgctxt "Subclass/&MartialWeaponMasterTitle"
 msgid "Weapon Master"
-msgstr ""
+msgstr "웨폰 마스터"
 
 msgctxt "UI/&CustomFeatureSelectionTooltipTypeMartialWeaponMaster"
 msgid "Weapon Specializatio"
@@ -2724,7 +2726,7 @@ msgstr ""
 
 msgctxt "Reaction/&CustomReactionSpiritualShieldingReactTitle"
 msgid "Spend"
-msgstr ""
+msgstr "소모"
 
 msgctxt "Reaction/&CustomReactionSpiritualShieldingTitle"
 msgid "Channel Divinity: Spiritual Shielding"
@@ -2747,7 +2749,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionOathOfAncientsAuraWardingDescription"
 msgid "Gain resistance to spell damage."
-msgstr ""
+msgstr "주문 피해에 대해 저항을 얻습니다."
 
 msgctxt "Condition/&ConditionOathOfAncientsAuraWardingTitle"
 msgid "Warded"
@@ -2775,7 +2777,7 @@ msgstr ""
 
 msgctxt "Feature/&DamageAffinityOathOfAncientsUndyingSentinelTitle"
 msgid "Undying Sentinel"
-msgstr ""
+msgstr "불굴의 파수꾼"
 
 msgctxt "Feature/&PowerOathOfAncientsAuraWarding18Description"
 msgid "Your Aura of Warding range increased to 30 ft."
@@ -2903,7 +2905,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetOathOfDreadAspectOfDreadDamageResistanceDescription"
 msgid "You have resistance to all damage."
-msgstr ""
+msgstr "모든 피해 유형에 대해 저항을 얻습니다."
 
 msgctxt "Feature/&FeatureSetOathOfDreadAspectOfDreadDamageResistanceTitle"
 msgid "Dread Resistance"
@@ -3639,7 +3641,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionPathOfTheSpiritsWolfLeadershipPackTitle"
 msgid "Wolf Spirit"
-msgstr ""
+msgstr "늑대의 영"
 
 msgctxt "Feature/&ActionAffinityPathOfTheSpiritsCunningActionDescription"
 msgid ""
@@ -3650,7 +3652,7 @@ msgstr ""
 
 msgctxt "Feature/&ActionAffinityPathOfTheSpiritsCunningActionTitle"
 msgid "Eagle Spirit"
-msgstr ""
+msgstr "독수리의 영"
 
 msgctxt "Feature/&FeatureSetPathOfTheSpiritsAnimalAspectChoiceBearDescription"
 msgid ""
@@ -3731,7 +3733,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetPathOfTheSpiritsAnimalSpiritChoicesTitle"
 msgid "Animal Spirit"
-msgstr ""
+msgstr "야수령"
 
 msgctxt "Feature/&FeatureSetPathOfTheSpiritsHonedAnimalAspectChoicesDescription"
 msgid ""

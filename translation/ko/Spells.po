@@ -3,29 +3,32 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-05 22:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-06-11 07:53+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/"
+"solasta-unfinished-business/spells/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Condition/&ConditionAcidClawsDescription"
 msgid "Armor class is lowered by 1."
-msgstr ""
+msgstr "방어도 1 감소."
 
 msgctxt "Condition/&ConditionAcidClawsTitle"
 msgid "Acid Burn"
-msgstr ""
+msgstr "산성 화상"
 
 msgctxt "Condition/&ConditionMindSpikeDescription"
 msgid "Subtracts 1d4 from the next saving throw."
-msgstr ""
+msgstr "다음 내성굴림에서 1d4 차감."
 
 msgctxt "Condition/&ConditionMindSpikeTitle"
 msgid "Mind Spike"
-msgstr ""
+msgstr "마음 쐐기"
 
 msgctxt "Condition/&ConditionResonatingStrikeDescription"
 msgid ""
@@ -35,7 +38,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionResonatingStrikeTitle"
 msgid "Resonance"
-msgstr ""
+msgstr "공명"
 
 msgctxt "Condition/&ConditionSunlightBladeDescription"
 msgid ""
@@ -45,11 +48,11 @@ msgstr ""
 
 msgctxt "Condition/&ConditionSunlightBladeTitle"
 msgid "Sunlit Blade's burn"
-msgstr ""
+msgstr "햇빛 칼날 화상"
 
 msgctxt "Condition/&ConditionWrackDescription"
 msgid "You are unable to take the dash or disengage action."
-msgstr ""
+msgstr "질주 또는 이탈 행동을 취할 수 없습니다."
 
 msgctxt "Condition/&ConditionWrackTitle"
 msgid "Wracked"
@@ -57,7 +60,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageResonatingStrikeFormat"
 msgid "Resonating Strike!"
-msgstr ""
+msgstr "공명하는 일격!"
 
 msgctxt "Feedback/&AdditionalDamageResonatingStrikeLine"
 msgid "{0} resonates {1}! (+{2})"
@@ -89,15 +92,15 @@ msgstr ""
 
 msgctxt "Spell/&AcidClawsTitle"
 msgid "Acid Claws"
-msgstr ""
+msgstr "산성 발톱"
 
 msgctxt "Spell/&AirBlastDescription"
 msgid "Fire a blast of focused air at your target."
-msgstr ""
+msgstr "대상에게 압축된 공기의 탄환을 날립니다."
 
 msgctxt "Spell/&AirBlastTitle"
 msgid "Air Blast"
-msgstr ""
+msgstr "공기탄"
 
 msgctxt "Spell/&BladeWardDescription"
 msgid ""
@@ -108,7 +111,7 @@ msgstr ""
 
 msgctxt "Spell/&BladeWardTitle"
 msgid "Blade Ward"
-msgstr ""
+msgstr "도검 방비"
 
 msgctxt "Spell/&BurstOfRadianceDescription"
 msgid ""
@@ -118,7 +121,7 @@ msgstr ""
 
 msgctxt "Spell/&BurstOfRadianceTitle"
 msgid "Burst of Radiance"
-msgstr ""
+msgstr "광휘 폭발"
 
 msgctxt "Spell/&EnduringStingDescription"
 msgid ""
@@ -151,7 +154,7 @@ msgstr ""
 
 msgctxt "Spell/&MindSpikeTitle"
 msgid "Mind Spike"
-msgstr ""
+msgstr "마음 쐐기"
 
 msgctxt "Spell/&MinorLifestealDescription"
 msgid ""
@@ -164,7 +167,7 @@ msgstr ""
 
 msgctxt "Spell/&MinorLifestealTitle"
 msgid "Minor Lifesteal"
-msgstr ""
+msgstr "하급 생명약탈"
 
 msgctxt "Spell/&ResonatingStrikeDescription"
 msgid ""
@@ -181,7 +184,7 @@ msgstr ""
 
 msgctxt "Spell/&ResonatingStrikeTitle"
 msgid "Resonating Strike"
-msgstr ""
+msgstr "공명하는 일격"
 
 msgctxt "Spell/&SunlightBladeDescription"
 msgid ""
@@ -195,7 +198,7 @@ msgstr ""
 
 msgctxt "Spell/&SunlightBladeTitle"
 msgid "Sunlit Blade"
-msgstr ""
+msgstr "햇빛 칼날"
 
 msgctxt "Spell/&SwordStormDescription"
 msgid ""
@@ -206,7 +209,7 @@ msgstr ""
 
 msgctxt "Spell/&SwordStormTitle"
 msgid "Sword Storm"
-msgstr ""
+msgstr "도검 폭풍"
 
 msgctxt "Spell/&ThornyVinesDescription"
 msgid ""
@@ -230,7 +233,7 @@ msgstr ""
 
 msgctxt "Spell/&ThunderStrikeTitle"
 msgid "Sound Burst"
-msgstr ""
+msgstr "음향 폭발"
 
 msgctxt "Spell/&TollTheDeadDescription"
 msgid ""
@@ -330,7 +333,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageSearingSmiteFormat"
 msgid "Searing Smite!"
-msgstr ""
+msgstr "타오르는 강타!"
 
 msgctxt "Feedback/&AdditionalDamageSearingSmiteLine"
 msgid "{0} deals more damage to {1} through a searing smite (+{2})"
@@ -338,7 +341,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageThunderousSmiteFormat"
 msgid "Thunderous Smite!"
-msgstr ""
+msgstr "천둥의 강타!"
 
 msgctxt "Feedback/&AdditionalDamageThunderousSmiteLine"
 msgid "{0} deals more damage to {1} through a thunderous smite (+{2})"
@@ -346,7 +349,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageWrathfulSmiteFormat"
 msgid "Wrathful Smite!"
-msgstr ""
+msgstr "진노의 강타!"
 
 msgctxt "Feedback/&AdditionalDamageWrathfulSmiteLine"
 msgid "{0} deals more damage to {1} through a wrathful smite (+{2})"
@@ -358,11 +361,11 @@ msgstr ""
 
 msgctxt "Monster/&OwlFamiliarDescription"
 msgid "Owl Familiar."
-msgstr ""
+msgstr "올빼미 패밀리어."
 
 msgctxt "Monster/&OwlFamiliarTitle"
 msgid "Owl Familiar"
-msgstr ""
+msgstr "올빼미 패밀리어"
 
 msgctxt "Spell/&CausticZapDescription"
 msgid ""
@@ -387,7 +390,7 @@ msgstr ""
 
 msgctxt "Spell/&ChromaticOrbTitle"
 msgid "Chromatic Orb"
-msgstr ""
+msgstr "색채의 보주"
 
 msgctxt "Spell/&EarthTremorDescription"
 msgid ""
@@ -397,7 +400,7 @@ msgstr ""
 
 msgctxt "Spell/&EarthTremorTitle"
 msgid "Earth Tremor"
-msgstr ""
+msgstr "땅울림"
 
 msgctxt "Spell/&EnsnaringStrikeDescription"
 msgid ""
@@ -410,7 +413,7 @@ msgstr ""
 
 msgctxt "Spell/&EnsnaringStrikeTitle"
 msgid "Ensnaring Strike"
-msgstr ""
+msgstr "포획의 일격"
 
 msgctxt "Spell/&FindFamiliarDescription"
 msgid ""
@@ -420,7 +423,7 @@ msgstr ""
 
 msgctxt "Spell/&FindFamiliarTitle"
 msgid "Find Familiar"
-msgstr ""
+msgstr "패밀리어 소환"
 
 msgctxt "Spell/&GiftOfAlacrityDescription"
 msgid ""
@@ -440,7 +443,7 @@ msgstr ""
 
 msgctxt "Spell/&MagnifyGravityTitle"
 msgid "Magnify Gravity"
-msgstr ""
+msgstr "중력 증강"
 
 msgctxt "Spell/&MuleDescription"
 msgid ""
@@ -483,7 +486,7 @@ msgstr ""
 
 msgctxt "Spell/&SearingSmiteTitle"
 msgid "Searing Smite"
-msgstr ""
+msgstr "타오르는 강타"
 
 msgctxt "Spell/&SkinOfRetributionDescription"
 msgid ""
@@ -516,7 +519,7 @@ msgstr ""
 
 msgctxt "Spell/&ThunderousSmiteTitle"
 msgid "Thunderous Smite"
-msgstr ""
+msgstr "천둥의 강타"
 
 msgctxt "Spell/&WrathfulSmiteDescription"
 msgid ""
@@ -526,7 +529,7 @@ msgstr ""
 
 msgctxt "Spell/&WrathfulSmiteTitle"
 msgid "Wrathful Smite"
-msgstr ""
+msgstr "진노의 강타"
 
 msgctxt "Condition/&ConditionGrappledRestrainedIceBoundDescription"
 msgid "Frozen in place."
@@ -552,7 +555,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionMirrorImageTitle"
 msgid "Mirror Duplicate"
-msgstr ""
+msgstr "거울 분신"
 
 msgctxt "Feedback/&MirrorImageAttackerHasSense"
 msgid "{0} has {1} and ignores {2}"
@@ -578,7 +581,7 @@ msgstr ""
 
 msgctxt "Item/&ItemShadowBladeTitle"
 msgid "Shadow Blade"
-msgstr ""
+msgstr "그림자 칼날"
 
 msgctxt "Spell/&BindingIceDescription"
 msgid ""
@@ -602,7 +605,7 @@ msgstr ""
 
 msgctxt "Spell/&ColorBurstTitle"
 msgid "Color Burst"
-msgstr ""
+msgstr "색채 폭발"
 
 msgctxt "Spell/&MirrorImageDescription"
 msgid ""
@@ -622,7 +625,7 @@ msgstr ""
 
 msgctxt "Spell/&MirrorImageTitle"
 msgid "Mirror Image"
-msgstr ""
+msgstr "거울 분신"
 
 msgctxt "Spell/&PetalStormDescription"
 msgid ""
@@ -637,7 +640,7 @@ msgstr ""
 
 msgctxt "Spell/&PetalStormTitle"
 msgid "Petal Storm"
-msgstr ""
+msgstr "꽃잎 폭풍"
 
 msgctxt "Spell/&ProtectThresholdDescription"
 msgid ""
@@ -660,7 +663,7 @@ msgstr ""
 
 msgctxt "Spell/&ShadowBladeTitle"
 msgid "Shadow Blade"
-msgstr ""
+msgstr "그림자 칼날"
 
 msgctxt "Spell/&SpellWebDescription"
 msgid ""
@@ -676,7 +679,7 @@ msgstr ""
 
 msgctxt "Spell/&SpellWebTitle"
 msgid "We"
-msgstr ""
+msgstr "거미줄"
 
 msgctxt "Condition/&ConditionCrusadersMantleDescription"
 msgid "Gain a bonus 1d4 radiant damage on your attacks."
@@ -684,7 +687,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionCrusadersMantleTitle"
 msgid "Crusader's Mantle"
-msgstr ""
+msgstr "성전사의 망토"
 
 msgctxt "Condition/&ConditionSpiritShroudNoHealDescription"
 msgid ""
@@ -701,7 +704,7 @@ msgstr ""
 
 msgctxt "Feature/&AdditionalDamageElementalWeapon1Title"
 msgid "Elemental Weapon"
-msgstr ""
+msgstr "원소 무기"
 
 msgctxt "Feature/&AdditionalDamageElementalWeapon2Description"
 msgid "This weapon is imbued with 3d4 {0}."
@@ -709,7 +712,7 @@ msgstr ""
 
 msgctxt "Feature/&AdditionalDamageElementalWeapon2Title"
 msgid "Elemental Weapon"
-msgstr ""
+msgstr "원소 무기"
 
 msgctxt "Feature/&AdditionalDamageElementalWeaponDescription"
 msgid "This weapon is imbued with 1d4 {0}."
@@ -717,7 +720,7 @@ msgstr ""
 
 msgctxt "Feature/&AdditionalDamageElementalWeaponTitle"
 msgid "Elemental Weapon"
-msgstr ""
+msgstr "원소 무기"
 
 msgctxt "Feature/&AttackModifierElementalWeaponDescription"
 msgid "This weapon is imbued with a +{0} to attack and damage rolls."
@@ -725,11 +728,11 @@ msgstr ""
 
 msgctxt "Feature/&AttackModifierElementalWeaponTitle"
 msgid "Elemental Weapon"
-msgstr ""
+msgstr "원소 무기"
 
 msgctxt "Feedback/&AdditionalDamageBlindingSmiteFormat"
 msgid "Blinding Smite!"
-msgstr ""
+msgstr "실명의 강타!"
 
 msgctxt "Feedback/&AdditionalDamageBlindingSmiteLine"
 msgid "{0} deals more damage to {1} through a blinding smite (+{2})"
@@ -737,7 +740,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageElementalWeaponFormat"
 msgid "Elemental Weapon!"
-msgstr ""
+msgstr "원소 무기!"
 
 msgctxt "Feedback/&AdditionalDamageElementalWeaponLine"
 msgid "{0} performs an elemental weapon attack on {1} (+{2})"
@@ -745,7 +748,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageColdFormat"
 msgid "Spirit Shroud!"
-msgstr ""
+msgstr "영혼의 수의!"
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageColdLine"
 msgid "{0} deals {2} cold damage to {1} from Spirit Shroud!"
@@ -753,7 +756,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageNecroticFormat"
 msgid "Spirit Shroud!"
-msgstr ""
+msgstr "영혼의 수의!"
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageNecroticLine"
 msgid "{0} deals {2} necrotic damage to {1} from Spirit Shroud!"
@@ -761,7 +764,7 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageRadiantFormat"
 msgid "Spirit Shroud!"
-msgstr ""
+msgstr "영혼의 수의!"
 
 msgctxt "Feedback/&AdditionalDamageSpiritShroudDamageRadiantLine"
 msgid "{0} deals {2} radiant damage to {1} from Spirit Shroud!"
@@ -779,7 +782,7 @@ msgstr ""
 
 msgctxt "Spell/&BlindingSmiteTitle"
 msgid "Blinding Smite"
-msgstr ""
+msgstr "실명의 강타"
 
 msgctxt "Spell/&CrusadersMantleDescription"
 msgid ""
@@ -789,7 +792,7 @@ msgstr ""
 
 msgctxt "Spell/&CrusadersMantleTitle"
 msgid "Crusader's Mantle"
-msgstr ""
+msgstr "성전사의 망토"
 
 msgctxt "Spell/&ElementalWeaponDamageAcidDescription"
 msgid "Imbue a non-magical weapon with acid damage."
@@ -797,7 +800,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponDamageAcidTitle"
 msgid "Acid Elemental Weapon"
-msgstr ""
+msgstr "산성 원소 무기"
 
 msgctxt "Spell/&ElementalWeaponDamageColdDescription"
 msgid "Imbue a non-magical weapon with cold damage."
@@ -805,7 +808,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponDamageColdTitle"
 msgid "Cold Elemental Weapon"
-msgstr ""
+msgstr "냉기 원소 무기"
 
 msgctxt "Spell/&ElementalWeaponDamageFireDescription"
 msgid "Imbue a non-magical weapon with fire damage."
@@ -813,7 +816,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponDamageFireTitle"
 msgid "Fire Elemental Weapon"
-msgstr ""
+msgstr "화염 원소 무기"
 
 msgctxt "Spell/&ElementalWeaponDamageLightningDescription"
 msgid "Imbue a non-magical weapon with lightning damage."
@@ -821,7 +824,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponDamageLightningTitle"
 msgid "Lightning Elemental Weapon"
-msgstr ""
+msgstr "번개 원소 무기"
 
 msgctxt "Spell/&ElementalWeaponDamageThunderDescription"
 msgid "Imbue a non-magical weapon with thunder damage."
@@ -829,7 +832,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponDamageThunderTitle"
 msgid "Thunder Elemental Weapon"
-msgstr ""
+msgstr "천둥 원소 무기"
 
 msgctxt "Spell/&ElementalWeaponDescription"
 msgid ""
@@ -841,7 +844,7 @@ msgstr ""
 
 msgctxt "Spell/&ElementalWeaponTitle"
 msgid "Elemental Weapon"
-msgstr ""
+msgstr "원소 무기"
 
 msgctxt "Spell/&PulseWaveDescription"
 msgid "Hurl enemies away with intense gravitational pressure."
@@ -849,31 +852,31 @@ msgstr ""
 
 msgctxt "Spell/&PulseWaveTitle"
 msgid "Pulse Wave"
-msgstr ""
+msgstr "진동파"
 
 msgctxt "Spell/&SpiritShroudDamageColdDescription"
 msgid "Deal bonus cold damage."
-msgstr ""
+msgstr "추가 냉기 피해를 가합니다."
 
 msgctxt "Spell/&SpiritShroudDamageColdTitle"
 msgid "Spirit Shroud (Cold)"
-msgstr ""
+msgstr "영혼의 수의 (냉기)"
 
 msgctxt "Spell/&SpiritShroudDamageNecroticDescription"
 msgid "Deal bonus necrotic damage."
-msgstr ""
+msgstr "추가 사령 피해를 가합니다."
 
 msgctxt "Spell/&SpiritShroudDamageNecroticTitle"
 msgid "Spirit Shroud (Necrotic)"
-msgstr ""
+msgstr "영혼의 수의 (사령)"
 
 msgctxt "Spell/&SpiritShroudDamageRadiantDescription"
 msgid "Deal bonus radiant damage."
-msgstr ""
+msgstr "추가 광휘 피해를 가합니다."
 
 msgctxt "Spell/&SpiritShroudDamageRadiantTitle"
 msgid "Spirit Shroud (Radiant)"
-msgstr ""
+msgstr "영혼의 수의 (광휘)"
 
 msgctxt "Spell/&SpiritShroudDescription"
 msgid ""
@@ -892,7 +895,7 @@ msgstr ""
 
 msgctxt "Spell/&SpiritShroudTitle"
 msgid "Spirit Shroud"
-msgstr ""
+msgstr "영혼의 수의"
 
 msgctxt "Spell/&WinterBreathDescription"
 msgid "Create a blast of cold wind to chill your enemies and knock them prone."
@@ -900,7 +903,7 @@ msgstr ""
 
 msgctxt "Spell/&WinterBreathTitle"
 msgid "Winter's Breat"
-msgstr ""
+msgstr "겨울의 숨결"
 
 msgctxt "Condition/&ConditionBrainBulwarkDescription"
 msgid ""
@@ -910,19 +913,19 @@ msgstr ""
 
 msgctxt "Condition/&ConditionBrainBulwarkTitle"
 msgid "Brain Bulwark"
-msgstr ""
+msgstr "정신 방벽"
 
 msgctxt "Condition/&ConditionStaggeringSmiteEnemyDescription"
 msgid "You're hit by psychic damage."
-msgstr ""
+msgstr "정신 피해를 입습니다."
 
 msgctxt "Condition/&ConditionStaggeringSmiteEnemyTitle"
 msgid "Staggering Smite"
-msgstr ""
+msgstr "비틀대는 강타"
 
 msgctxt "Feedback/&AdditionalDamageStaggeringSmiteFormat"
 msgid "Staggering Smite!"
-msgstr ""
+msgstr "비틀대는 강타!"
 
 msgctxt "Feedback/&AdditionalDamageStaggeringSmiteLine"
 msgid "{0} deals more damage to {1} through a staggering smite (+{2})"
@@ -937,7 +940,7 @@ msgstr ""
 
 msgctxt "Spell/&BrainBulwarkTitle"
 msgid "Brain Bulwark"
-msgstr ""
+msgstr "정신 방벽"
 
 msgctxt "Spell/&GravitySinkholeDescription"
 msgid "Draw enemies together and crush them with gravitational energy."
@@ -945,7 +948,7 @@ msgstr ""
 
 msgctxt "Spell/&GravitySinkholeTitle"
 msgid "Gravity Sinkhole"
-msgstr ""
+msgstr "중력 특이점"
 
 msgctxt "Spell/&StaggeringSmiteDescription"
 msgid ""
@@ -958,7 +961,7 @@ msgstr ""
 
 msgctxt "Spell/&StaggeringSmiteTitle"
 msgid "Staggering Smit"
-msgstr ""
+msgstr "비틀거리는 강타"
 
 msgctxt "Condition/&ConditionFarStepDescription"
 msgid ""
@@ -968,11 +971,11 @@ msgstr ""
 
 msgctxt "Condition/&ConditionFarStepTitle"
 msgid "Far Step"
-msgstr ""
+msgstr "너른 걸음"
 
 msgctxt "Feedback/&AdditionalDamageBanishingSmiteFormat"
 msgid "Banishing Smite!"
-msgstr ""
+msgstr "추방의 강타!"
 
 msgctxt "Feedback/&AdditionalDamageBanishingSmiteLine"
 msgid "{0} deals more damage to {1} through a banishing smite (+{2})"
@@ -987,7 +990,7 @@ msgstr ""
 
 msgctxt "Spell/&BanishingSmiteTitle"
 msgid "Banishing Smite"
-msgstr ""
+msgstr "추방의 강타"
 
 msgctxt "Spell/&FarStepDescription"
 msgid ""
@@ -998,7 +1001,7 @@ msgstr ""
 
 msgctxt "Spell/&FarStepTitle"
 msgid "Far Step"
-msgstr ""
+msgstr "너른 걸음"
 
 msgctxt "Spell/&MantleOfThornsDescription"
 msgid ""
@@ -1009,7 +1012,7 @@ msgstr ""
 
 msgctxt "Spell/&MantleOfThornsTitle"
 msgid "Mantle of Thorns"
-msgstr ""
+msgstr "가시 망토"
 
 msgctxt "Spell/&SonicBoomDescription"
 msgid ""
@@ -1022,15 +1025,15 @@ msgstr ""
 
 msgctxt "Spell/&SonicBoomTitle"
 msgid "Sonic Boom"
-msgstr ""
+msgstr "폭음"
 
 msgctxt "Condition/&ConditionReverseGravityDescription"
 msgid "Caught by reverse gravity."
-msgstr ""
+msgstr "반중력에 사로잡혔습니다."
 
 msgctxt "Condition/&ConditionReverseGravityTitle"
 msgid "Reverse Gravity"
-msgstr ""
+msgstr "중력 역전"
 
 msgctxt "Spell/&ReverseGravityDescription"
 msgid ""
@@ -1040,7 +1043,7 @@ msgstr ""
 
 msgctxt "Spell/&ReverseGravityTitle"
 msgid "Reverse Gravit"
-msgstr ""
+msgstr "중력 역전"
 
 msgctxt "Condition/&ConditionMindBlankDescription"
 msgid "Immune to psychic damage and the charmed condition."
@@ -1059,7 +1062,7 @@ msgstr ""
 
 msgctxt "Spell/&MindBlankTitle"
 msgid "Mind Blan"
-msgstr ""
+msgstr "무심화"
 
 msgctxt "Condition/&ConditionForesightDescription"
 msgid ""
@@ -1069,7 +1072,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionForesightTitle"
 msgid "Foresight"
-msgstr ""
+msgstr "예견안"
 
 msgctxt "Condition/&ConditionTimeStopDescription"
 msgid "Time is frozen for the affected creature."
@@ -1077,7 +1080,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionTimeStopTitle"
 msgid "Time Stopped"
-msgstr ""
+msgstr "시간 정지"
 
 msgctxt "Condition/&ConditionWeirdDescription"
 msgid ""
@@ -1087,7 +1090,7 @@ msgstr ""
 
 msgctxt "Condition/&ConditionWeirdTitle"
 msgid "Weirded"
-msgstr ""
+msgstr "기괴"
 
 msgctxt "Spell/&ForesightDescription"
 msgid ""
@@ -1100,7 +1103,7 @@ msgstr ""
 
 msgctxt "Spell/&ForesightTitle"
 msgid "Foresight"
-msgstr ""
+msgstr "예견안"
 
 msgctxt "Spell/&MassHealDescription"
 msgid ""
@@ -1113,7 +1116,7 @@ msgstr ""
 
 msgctxt "Spell/&MassHealTitle"
 msgid "Mass Heal"
-msgstr ""
+msgstr "다중 치유"
 
 msgctxt "Spell/&MeteorSwarmSingleTargetDescription"
 msgid ""
@@ -1127,7 +1130,7 @@ msgstr ""
 
 msgctxt "Spell/&MeteorSwarmSingleTargetTitle"
 msgid "Meteor Swarm [Single Target]"
-msgstr ""
+msgstr "운석 소환 [단일 대상]"
 
 msgctxt "Spell/&PowerWordHealDescription"
 msgid ""
@@ -1140,7 +1143,7 @@ msgstr ""
 
 msgctxt "Spell/&PowerWordHealTitle"
 msgid "Power Word Heal"
-msgstr ""
+msgstr "권능어: 치유"
 
 msgctxt "Spell/&PowerWordKillDescription"
 msgid ""
@@ -1151,7 +1154,7 @@ msgstr ""
 
 msgctxt "Spell/&PowerWordKillTitle"
 msgid "Power Word Kill"
-msgstr ""
+msgstr "권능어: 죽음"
 
 msgctxt "Spell/&ShapechangeDescription"
 msgid ""
@@ -1161,7 +1164,7 @@ msgstr ""
 
 msgctxt "Spell/&ShapechangeTitle"
 msgid "Shapechange"
-msgstr ""
+msgstr "형상변화"
 
 msgctxt "Spell/&TimeStopDescription"
 msgid ""
@@ -1172,7 +1175,7 @@ msgstr ""
 
 msgctxt "Spell/&TimeStopTitle"
 msgid "Time Stop"
-msgstr ""
+msgstr "시간 정지"
 
 msgctxt "Spell/&WeirdDescription"
 msgid ""
@@ -1189,4 +1192,4 @@ msgstr ""
 
 msgctxt "Spell/&WeirdTitle"
 msgid "Weir"
-msgstr ""
+msgstr "기괴"
