@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-05 22:02+0900\n"
-"PO-Revision-Date: 2023-06-07 04:53+0000\n"
+"PO-Revision-Date: 2023-06-27 15:53+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "solasta-unfinished-business/ui/ko/>\n"
@@ -30,7 +30,7 @@ msgstr "시험용 미리보기 <i><color=Yellow>[사용하기 전에 백업을 �
 
 msgctxt "UI/&Expert"
 msgid "Expert"
-msgstr ""
+msgstr "전문가"
 
 msgctxt "UI/&PartyEditor"
 msgid "Party Editor"
@@ -52,8 +52,8 @@ msgstr ""
 
 msgctxt "UI/&Remove"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 msgctxt "UI/&Skilled"
 msgid "Skilled"
-msgstr ""
+msgstr "숙련"
