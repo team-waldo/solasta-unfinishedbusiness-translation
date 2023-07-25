@@ -5,14 +5,7 @@ import os
 import subprocess
 from translation_storage import TranslationFile, TranslationEntry, load_translation
 
-LANGCODE = "ko"
-
-MOD_REPO_NAME = "SolastaUnfinishedBusiness"
-MOD_REPO_URL = "https://github.com/SolastaMods/SolastaUnfinishedBusiness"
-
-TEMPLATE_DIRECTORY = "template"
-TRANSLATION_DIRECTORY = "translation"
-MACHINETRANSLATION_SUFFIX = "_mt"
+from config import *
 
 
 def update_mod_repo():

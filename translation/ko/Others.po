@@ -2,14 +2,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-05 22:02+0900\n"
+"POT-Creation-Date: 2023-07-25 17:23+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"X-Generator: Translate Toolkit 3.9.2\n"
+
+msgctxt "Action/&ArcaneArcherToggleDescription"
+msgid "Activate/deactivate Arcane Archer"
+msgstr ""
+
+msgctxt "Action/&ArcaneArcherToggleTitle"
+msgid "Arcane Archer"
+msgstr ""
 
 msgctxt "Action/&CastPlaneMagicDescription"
 msgid "Cast one of the spells you got from Plane Touched feats"
@@ -35,6 +43,14 @@ msgctxt "Action/&CastSpellMasteryTitle"
 msgid "Spell Mastery"
 msgstr ""
 
+msgctxt "Action/&CunningStrikeToggleDescription"
+msgid "Activate/deactivate Cunning Strike"
+msgstr ""
+
+msgctxt "Action/&CunningStrikeToggleTitle"
+msgid "Cunning Strike"
+msgstr ""
+
 msgctxt "Action/&FarStepDescription"
 msgid "Teleport up to 60 ft to an unoccupied space you can see"
 msgstr ""
@@ -49,6 +65,30 @@ msgstr ""
 
 msgctxt "Action/&FeatCrusherToggleTitle"
 msgid "Crusher"
+msgstr ""
+
+msgctxt "Action/&FlightResumeDescription"
+msgid "Resumes your suspended flight effect"
+msgstr ""
+
+msgctxt "Action/&FlightResumeTitle"
+msgid "Fly"
+msgstr ""
+
+msgctxt "Action/&FlightSuspendDescription"
+msgid "Suspends your flight effect so that you may walk on the ground"
+msgstr ""
+
+msgctxt "Action/&FlightSuspendTitle"
+msgid "Land"
+msgstr ""
+
+msgctxt "Action/&HailOfBladesToggleDescription"
+msgid "Activate/deactivate Hail of Blades"
+msgstr ""
+
+msgctxt "Action/&HailOfBladesToggleTitle"
+msgid "Hail of Blades"
 msgstr ""
 
 msgctxt "Action/&InventorInfusionDescription"
@@ -67,14 +107,6 @@ msgctxt "Action/&MonkKiPointsToggleTitle"
 msgid "Distant Hand Technique"
 msgstr ""
 
-msgctxt "Action/&MonsterSwapAttackToggleDescription"
-msgid "Swap attacks"
-msgstr ""
-
-msgctxt "Action/&MonsterSwapAttackToggleTitle"
-msgid "Swap"
-msgstr ""
-
 msgctxt "Action/&PaladinSmiteToggleDescription"
 msgid "Enable smites on any attack otherwise only on critical hits"
 msgstr ""
@@ -91,8 +123,48 @@ msgctxt "Action/&TacticianGambitTitle"
 msgid "Gambits"
 msgstr ""
 
+msgctxt "Action/&WithdrawDescription"
+msgid ""
+"When you are within melee range of an enemy creature, you can use your bonus "
+"action to move up to 3 cells without provoking opportunity attacks."
+msgstr ""
+
+msgctxt "Action/&WithdrawTitle"
+msgid "Withdraw"
+msgstr ""
+
 msgctxt "BlueprintCategory/&FlatRoomsTitle"
 msgid "Flat Rooms"
+msgstr ""
+
+msgctxt "Condition/&ConditionRogueCunningStrikeDisarmedTitle"
+msgid "Disarmed"
+msgstr ""
+
+msgctxt "Condition/&ConditionRogueCunningStrikeWithdrawTitle"
+msgid "Withdrawn"
+msgstr ""
+
+msgctxt "Condition/&ConditionRogueDeviousStrikeDazedDescription"
+msgid ""
+"You cannot use reactions or bonus actions, and can move or take other "
+"actions in your turn, not both."
+msgstr ""
+
+msgctxt "Condition/&ConditionRogueDeviousStrikeDazedTitle"
+msgid "Dazed"
+msgstr ""
+
+msgctxt "Condition/&ConditionRogueDeviousStrikeKnockOutTitle"
+msgid "Knocked Out"
+msgstr ""
+
+msgctxt "Condition/&FlightSuspendDescription"
+msgid "Ongoing flight effect has been suspended"
+msgstr ""
+
+msgctxt "Condition/&FlightSuspendTitle"
+msgid "Flight Suspended"
 msgstr ""
 
 msgctxt "ContentPack/&9999Description"
@@ -106,6 +178,12 @@ msgctxt "ContentPack/&9999Title"
 msgid "Unfinished Business Pack"
 msgstr ""
 
+msgctxt "Equipment/&DLC3_DwarvenWeapon_Dagger+3_CriticalThreshold"
+msgid ""
+"Your attacks score a critical hit on an 18, 19 or 20 while you are wielding "
+"this weapon and are attuned to it."
+msgstr ""
+
 msgctxt "Failure/&FailureFlagTargetMeleeWeaponError"
 msgid "Can't perform melee attack on this target with current weapon"
 msgstr ""
@@ -116,6 +194,14 @@ msgstr ""
 
 msgctxt "Feature/&AncestryLevelUpDraconicDescription"
 msgid "Your draconic ancestry gives you an affinity to {0} damage type."
+msgstr ""
+
+msgctxt "Feature/&AttributeModifierMonkAbundantKiDescription"
+msgid "Add half your proficiency bonus (rounded up) to your Ki Points pool."
+msgstr ""
+
+msgctxt "Feature/&AttributeModifierMonkAbundantKiTitle"
+msgid "Abundant Ki"
 msgstr ""
 
 msgctxt "Feature/&CollegeHopeWanderingHealerSpellsDescription"
@@ -138,6 +224,38 @@ msgctxt "Feature/&FighterExtraAttackDescription"
 msgid ""
 "You can attack twice, rather than once, when you use the attack or shove "
 "actions."
+msgstr ""
+
+msgctxt "Feature/&FlightResumeDescription"
+msgid "Resumes your suspended flight effect"
+msgstr ""
+
+msgctxt "Feature/&FlightResumeTitle"
+msgid "Resume Flight"
+msgstr ""
+
+msgctxt "Feature/&FlightSuspendDescription"
+msgid "Suspends your flight effect so that you may walk on the ground"
+msgstr ""
+
+msgctxt "Feature/&FlightSuspendTitle"
+msgid "Suspend Flight"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolAngelicFormChoiceLearnDescription"
+msgid "Select an Angelic Form."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolAngelicFormChoiceLearnTitle"
+msgid "Angelic Form"
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolArcaneShotChoiceLearnDescription"
+msgid "Select an Arcane Shot."
+msgstr ""
+
+msgctxt "Feature/&InvocationPoolArcaneShotChoiceLearnTitle"
+msgid "Arcane Shot"
 msgstr ""
 
 msgctxt "Feature/&InvocationPoolKindredSpiritChoiceLearnDescription"
@@ -231,6 +349,96 @@ msgctxt "Feature/&PowerHelpTitle"
 msgid "Help"
 msgstr ""
 
+msgctxt "Feature/&PowerRogueCunningStrikeDescription"
+msgid ""
+"You have developed cunning ways to use your Sneak Attack. When you deal "
+"Sneak Attack damage, you can forgo Sneak Attack dice to add instead "
+"additional Cunning Strike effects."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeDisarmDescription"
+msgid ""
+"The target must succeed on a Dexterity saving throw, or have disadvantage on "
+"all attacks until end of its next turn. It costs 1 sneak die."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeDisarmTitle"
+msgid "Disarm"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikePoisonDescription"
+msgid ""
+"The target must succeed on a Constitution saving throw, or be poisoned for 1 "
+"minute. They can retry the save every turn start. It costs 1 sneak die."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikePoisonTitle"
+msgid "Poison"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeTitle"
+msgid "Cunning Strike"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeTripDescription"
+msgid ""
+"The target must succeed on a Dexterity saving throw, or be prone. It costs 1 "
+"sneak die."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeTripTitle"
+msgid "Trip"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeWithdrawDescription"
+msgid ""
+"After the attack, you can use a free action to step back up to 3 cells "
+"without provoking Opportunity Attacks. It costs 1 sneak die."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueCunningStrikeWithdrawTitle"
+msgid "Withdraw"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeDazeDescription"
+msgid ""
+"The target must succeed on a Constitution saving throw, or be dazed until "
+"end of its next turn. It costs 2 sneak dice."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeDazeTitle"
+msgid "Dazed"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeDescription"
+msgid "You have practiced new ways to use your Sneak Attack deviously."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeKnockOutDescription"
+msgid ""
+"The target must succeed on a Constitution saving throw, or be incapacitated "
+"for 1 minute. They can retry the save every turn start, and also loose the "
+"condition if damaged. It costs 6 sneak dice."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeKnockOutTitle"
+msgid "Knock Out"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeObscureDescription"
+msgid ""
+"The target must succeed on a Dexterity saving throw, or be blinded until end "
+"of its next turn. It costs 3 sneak dice."
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeObscureTitle"
+msgid "Obscure"
+msgstr ""
+
+msgctxt "Feature/&PowerRogueDeviousStrikeTitle"
+msgid "Devious Strike"
+msgstr ""
+
 msgctxt "Feature/&ToolGainChoicesPluralDescription"
 msgid "Choose {0} of these tools: {1}"
 msgstr ""
@@ -239,24 +447,28 @@ msgctxt "Feature/&ToolGainChoicesSingleDescription"
 msgid "Choose one of these tools: {1}"
 msgstr ""
 
-msgctxt "Feedback/&BehindAttack"
-msgid "Flanking from Behind"
-msgstr ""
-
 msgctxt "Feedback/&CharacterGivesBonusToSaveWithDCFormat"
 msgid "{0} gives a bonus of {1}, new result is {2} (DC: {3})"
 msgstr ""
 
-msgctxt "Feedback/&HigherAttack"
+msgctxt "Feedback/&ConcentrationEffectCheckRolledAnyAdvantageLine"
+msgid "{0} rolls to maintain {1} {2} versus DC {3}, rolls {4} = {5}"
+msgstr ""
+
+msgctxt "Feedback/&ConcentrationEffectCheckRolledLine"
+msgid "{0} rolls to maintain {1} versus DC {2}, rolls {3} = {4}"
+msgstr ""
+
+msgctxt "Feedback/&FlankingAttack"
+msgid "Flanking"
+msgstr ""
+
+msgctxt "Feedback/&HigherGroundAttack"
 msgid "Higher Ground"
 msgstr ""
 
 msgctxt "Feedback/&ReturningWeaponActivates"
 msgid "{1} returns to {0}!"
-msgstr ""
-
-msgctxt "Feedback/&Surrounded"
-msgid "Surrounded"
 msgstr ""
 
 msgctxt "Feedback/&TriggerFeatureLine"
@@ -319,6 +531,18 @@ msgctxt "Message/&MessageModWelcomeTitle"
 msgid "Unfinished Business Mod"
 msgstr ""
 
+msgctxt "Message/&ModErrorWarningDescription"
+msgid ""
+"Solasta has detected an instability. Please ask every player to close the "
+"game, grab the file <b>%APPDATA%\\LocalLow\\Tactical Adventures\\Player.log</"
+"b>, and share these logs, and the save file with the Unfinished Business mod "
+"community."
+msgstr ""
+
+msgctxt "Message/&ModErrorWarningTitle"
+msgid "Game Warning!"
+msgstr ""
+
 msgctxt "Message/&RespecMultiplayerAbortDescription"
 msgid "Cannot respec on a multiplayer game or map..."
 msgstr ""
@@ -368,6 +592,23 @@ msgstr ""
 
 msgctxt "Reaction/&ReactionSpendPowerBundleDescription"
 msgid "Spend Power."
+msgstr ""
+
+msgctxt "Reaction/&ReactionSpendPowerBundlePowerRogueCunningStrikeDescription"
+msgid "You can forgo Sneak Attack dice to apply an additional effect."
+msgstr ""
+
+msgctxt ""
+"Reaction/&ReactionSpendPowerBundlePowerRogueCunningStrikeReactDescription"
+msgid "You can forgo Sneak Attack dice to apply an additional effect."
+msgstr ""
+
+msgctxt "Reaction/&ReactionSpendPowerBundlePowerRogueCunningStrikeReactTitle"
+msgid "Cunning Strike"
+msgstr ""
+
+msgctxt "Reaction/&ReactionSpendPowerBundlePowerRogueCunningStrikeTitle"
+msgid "Cunning Strike"
 msgstr ""
 
 msgctxt "Reaction/&ReactionSpendPowerBundleTitle"
@@ -443,39 +684,64 @@ msgid "Dismisses a target conjured creature"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1000Format"
-msgid "Main weapon is melee:"
+msgid "Has Blade Mastery weapon types in hands:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1001Format"
-msgid "Wearing no armor or light armor without shield:"
+msgid "Has Greatsword in hands:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1002Format"
-msgid "Wearing no armor or light armor with two-handed quarterstaff:"
+msgid "Has Longsword in hands:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1003Format"
-msgid "Target is not source of the effect:"
+msgid "Has specialized weapon in hands:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1004Format"
-msgid "Summoner is next to beast:"
+msgid "Has versatile weapon in hands:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1005Format"
-msgid "Main weapon is specialized:"
+msgid "Is not in bright light:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1006Format"
-msgid "Has longsword in hands:"
+msgid "Is raging and dual wielding:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1007Format"
-msgid "Main greatsword in hands:"
+msgid "Main weapon is melee or unarmed or a Yeoman with longbow:"
 msgstr ""
 
 msgctxt "Rules/&SituationalContext1008Format"
-msgid "Is not in bright light:"
+msgid ""
+"Next to wall with shield, medium armor and conscious ally next to target:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1009Format"
+msgid "Summoner is next to beast:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1010Format"
+msgid "Target is not effect source:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1011Format"
+msgid "Wearing no armor or light armor without shield:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1012Format"
+msgid "Wearing no armor or light armor with two handed quarterstaff:"
+msgstr ""
+
+msgctxt "Rules/&SituationalContext1013Format"
+msgid "Target is favorite enemy:"
+msgstr ""
+
+msgctxt "Rules/&TurnOccurenceEndOfSourceTurnFormat"
+msgid "End Source of Turn"
 msgstr ""
 
 msgctxt "Screen/&ClassExtraSpellDescriptionFormat"
@@ -656,6 +922,14 @@ msgctxt "UI/&CustomFeatureSelectionStageTitle"
 msgid "Feature Selection"
 msgstr ""
 
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeAngelicFormChoice"
+msgid "Angelic Form"
+msgstr ""
+
+msgctxt "UI/&CustomFeatureSelectionTooltipTypeArcaneShotChoice"
+msgid "Arcane Shot"
+msgstr ""
+
 msgctxt "UI/&CustomFeatureSelectionTooltipTypeCantrip"
 msgid "Cantrip"
 msgstr ""
@@ -724,6 +998,14 @@ msgctxt "UI/&ForcePreferredCantripTitle"
 msgid "Force Preferred Cantrip"
 msgstr ""
 
+msgctxt "UI/&InventoryFilterAnyTags"
+msgid "Any Tags"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterBy"
+msgid "By"
+msgstr ""
+
 msgctxt "UI/&InventoryFilterCategory"
 msgid "Category"
 msgstr ""
@@ -738,6 +1020,10 @@ msgstr ""
 
 msgctxt "UI/&InventoryFilterName"
 msgid "Name"
+msgstr ""
+
+msgctxt "UI/&InventoryFilterUnidentifiedMagical"
+msgid "Unidentified Magical"
 msgstr ""
 
 msgctxt "UI/&InventoryFilterWeight"
@@ -761,5 +1047,5 @@ msgid "Usable Devices"
 msgstr ""
 
 msgctxt "UI/&RecipeFilterWeapons"
-msgid "Weapon"
+msgid "Weapons"
 msgstr ""

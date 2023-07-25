@@ -1,4 +1,5 @@
 import glob
+from pathlib import Path
 from typing import List
 
 from translate.storage import pypo
@@ -97,7 +98,7 @@ class TranslationFile(List[TranslationEntry]):
 def load_translation(dir: str, exculde_fuzzy: bool=True) -> dict[str, TranslationEntry]:
     result = {}
 
-    for path in glob.glob("**/*.po", root_dir=dir, recursive=True):
+    for path in Path(dir).glob("**/*.po"):
         tf = TranslationFile(path)
         for entry in tf:
             if not entry.target:
