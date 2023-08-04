@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-25 17:23+0900\n"
-"PO-Revision-Date: 2023-08-02 09:53+0000\n"
+"PO-Revision-Date: 2023-08-04 08:53+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/"
 "solasta-unfinished-business/others/ko/>\n"
@@ -24,79 +24,79 @@ msgstr "아케인 아처"
 
 msgctxt "Action/&CastPlaneMagicDescription"
 msgid "Cast one of the spells you got from Plane Touched feats"
-msgstr ""
+msgstr "차원 접촉 특성으로 얻은 주문 중 하나를 시전합니다"
 
 msgctxt "Action/&CastPlaneMagicTitle"
 msgid "Channel Plane Magic"
-msgstr ""
+msgstr "차원 마법 변환"
 
 msgctxt "Action/&CastSignatureSpellsDescription"
 msgid "Cast these 3rd level spells without spending a slot"
-msgstr ""
+msgstr "슬롯을 소모하지 않고 다음 3 레벨 주문을 시전합니다"
 
 msgctxt "Action/&CastSignatureSpellsTitle"
 msgid "Signature Spells"
-msgstr ""
+msgstr "시그니쳐 주문"
 
 msgctxt "Action/&CastSpellMasteryDescription"
 msgid "Cast your 1st or 2nd level prepared spells without spending a slot"
-msgstr ""
+msgstr "슬롯을 소모하지 않고 준비된 1레벨 또는 2레벨 주문을 시전할 수 있습니다"
 
 msgctxt "Action/&CastSpellMasteryTitle"
 msgid "Spell Mastery"
-msgstr ""
+msgstr "주문 통달"
 
 msgctxt "Action/&CunningStrikeToggleDescription"
 msgid "Activate/deactivate Cunning Strike"
-msgstr ""
+msgstr "교활한 일격 활성화/비활성화"
 
 msgctxt "Action/&CunningStrikeToggleTitle"
 msgid "Cunning Strike"
-msgstr ""
+msgstr "교활한 일격"
 
 msgctxt "Action/&FarStepDescription"
 msgid "Teleport up to 60 ft to an unoccupied space you can see"
-msgstr ""
+msgstr "눈에 보이는 비어 있는 공간으로 최대 60피트까지 순간이동합니다"
 
 msgctxt "Action/&FarStepTitle"
 msgid "Far Step"
-msgstr ""
+msgstr "너른 걸음"
 
 msgctxt "Action/&FeatCrusherToggleDescription"
 msgid "Enable crusher to prompt for a push"
-msgstr ""
+msgstr "밀어내기 위해 분쇄자를 활성화 합니다"
 
 msgctxt "Action/&FeatCrusherToggleTitle"
 msgid "Crusher"
-msgstr ""
+msgstr "분쇄자"
 
 msgctxt "Action/&FlightResumeDescription"
 msgid "Resumes your suspended flight effect"
-msgstr ""
+msgstr "일시 중단된 비행 효과를 재개합니다"
 
 msgctxt "Action/&FlightResumeTitle"
 msgid "Fly"
-msgstr ""
+msgstr "비행"
 
 msgctxt "Action/&FlightSuspendDescription"
 msgid "Suspends your flight effect so that you may walk on the ground"
-msgstr ""
+msgstr "지면을 걸을 수 있도록 비행 효과를 일시 정지합니다"
 
 msgctxt "Action/&FlightSuspendTitle"
 msgid "Land"
-msgstr ""
+msgstr "착륙"
 
 msgctxt "Action/&HailOfBladesToggleDescription"
 msgid "Activate/deactivate Hail of Blades"
-msgstr ""
+msgstr "빗발 칼날 활성화/비활성화"
 
 msgctxt "Action/&HailOfBladesToggleTitle"
 msgid "Hail of Blades"
-msgstr ""
+msgstr "빗발 칼날"
 
 msgctxt "Action/&InventorInfusionDescription"
 msgid "Infuse item or create replica"
-msgstr ""
+msgstr "마법 부여 또는 복제품 생성"
 
 msgctxt "Action/&InventorInfusionTitle"
 msgid "Infusions"
@@ -104,11 +104,11 @@ msgstr "주입"
 
 msgctxt "Action/&MonkKiPointsToggleDescription"
 msgid "Activate/deactivate Distant Hand Technique"
-msgstr ""
+msgstr "늘어나는 손 기술 활성화/비활성화"
 
 msgctxt "Action/&MonkKiPointsToggleTitle"
 msgid "Distant Hand Technique"
-msgstr ""
+msgstr "늘어나는 손 기술"
 
 msgctxt "Action/&PaladinSmiteToggleDescription"
 msgid "Enable smites on any attack otherwise only on critical hits"
@@ -120,11 +120,11 @@ msgstr "강타"
 
 msgctxt "Action/&TacticianGambitDescription"
 msgid "Select special maneuver"
-msgstr ""
+msgstr "특수 기동 선택"
 
 msgctxt "Action/&TacticianGambitTitle"
 msgid "Gambits"
-msgstr ""
+msgstr "승부수"
 
 msgctxt "Action/&WithdrawDescription"
 msgid ""
@@ -135,11 +135,12 @@ msgstr ""
 
 msgctxt "Action/&WithdrawTitle"
 msgid "Withdraw"
-msgstr ""
+msgstr "철수"
 
+#, fuzzy
 msgctxt "BlueprintCategory/&FlatRoomsTitle"
 msgid "Flat Rooms"
-msgstr ""
+msgstr "침실"
 
 msgctxt "Condition/&ConditionRogueCunningStrikeDisarmedTitle"
 msgid "Disarmed"
@@ -147,13 +148,13 @@ msgstr "무장해제됨"
 
 msgctxt "Condition/&ConditionRogueCunningStrikeWithdrawTitle"
 msgid "Withdrawn"
-msgstr ""
+msgstr "철수함"
 
 msgctxt "Condition/&ConditionRogueDeviousStrikeDazedDescription"
 msgid ""
 "You cannot use reactions or bonus actions, and can move or take other "
 "actions in your turn, not both."
-msgstr ""
+msgstr "반응 행동이나 추가 행동은 사용할 수 없으며, 자신의 차례에 이동하거나 다른 행동을 할 수 있지만 둘 다는 사용할 수 없습니다."
 
 msgctxt "Condition/&ConditionRogueDeviousStrikeDazedTitle"
 msgid "Dazed"
@@ -165,11 +166,11 @@ msgstr "의식을 잃음"
 
 msgctxt "Condition/&FlightSuspendDescription"
 msgid "Ongoing flight effect has been suspended"
-msgstr ""
+msgstr "진행 중인 비행 효과가 일시 중단되었습니다"
 
 msgctxt "Condition/&FlightSuspendTitle"
 msgid "Flight Suspended"
-msgstr ""
+msgstr "비행 중단"
 
 msgctxt "ContentPack/&9999Description"
 msgid ""
@@ -177,36 +178,38 @@ msgid ""
 "fighting style and spells. There's a higher level cap, QOL features, fixes "
 "and more. It's a veritable Horn of Plenty (TM)..."
 msgstr ""
+"끝내지 못한 일 꾸러미에는 멀티 클래스, 종족, 서브 클래스, 특성, 전투 특화 및 주문이 추가됩니다. 더 높은 레벨 상한, 삶의 질을 "
+"올려주는 특성, 수정 사항 등이 있습니다. 진정한 풍요의 뿔(TM)입니다..."
 
 msgctxt "ContentPack/&9999Title"
 msgid "Unfinished Business Pack"
-msgstr ""
+msgstr "끝내지 못한 일 꾸러미"
 
 msgctxt "Equipment/&DLC3_DwarvenWeapon_Dagger+3_CriticalThreshold"
 msgid ""
 "Your attacks score a critical hit on an 18, 19 or 20 while you are wielding "
 "this weapon and are attuned to it."
-msgstr ""
+msgstr "이 무기를 조율하고 장비한 상태로 공격하면 순수 명중 굴림 18, 19, 20에서 치명타로 인정됩니다."
 
 msgctxt "Failure/&FailureFlagTargetMeleeWeaponError"
 msgid "Can't perform melee attack on this target with current weapon"
-msgstr ""
+msgstr "현재 무기로 이 대상에게 근접 공격을 수행할 수 없습니다"
 
 msgctxt "Feature/&AlwaysBeardDescription"
 msgid "{0}% chances to grow a glorious beard!"
-msgstr ""
+msgstr "영광스러운 수염을 기를 확률이 {0}%입니다!"
 
 msgctxt "Feature/&AncestryLevelUpDraconicDescription"
 msgid "Your draconic ancestry gives you an affinity to {0} damage type."
-msgstr ""
+msgstr "드라코닉 혈통은 {0} 피해 유형에 친화력을 부여합니다."
 
 msgctxt "Feature/&AttributeModifierMonkAbundantKiDescription"
 msgid "Add half your proficiency bonus (rounded up) to your Ki Points pool."
-msgstr ""
+msgstr "숙련도 보너스의 절반(반올림)을 기 포인트 풀에 추가합니다."
 
 msgctxt "Feature/&AttributeModifierMonkAbundantKiTitle"
 msgid "Abundant Ki"
-msgstr ""
+msgstr "풍부한 기"
 
 msgctxt "Feature/&CollegeHopeWanderingHealerSpellsDescription"
 msgid ""
@@ -226,7 +229,7 @@ msgstr ""
 
 msgctxt "Feature/&ExpandedSpellsTitle"
 msgid "Expanded Spells"
-msgstr ""
+msgstr "확장된 주문"
 
 msgctxt "Feature/&FighterExtraAttackDescription"
 msgid ""
@@ -236,47 +239,47 @@ msgstr "공격 또는 밀치기를 사용할 때 한 번이 아닌 두 번 공�
 
 msgctxt "Feature/&FlightResumeDescription"
 msgid "Resumes your suspended flight effect"
-msgstr ""
+msgstr "일시 중단된 비행 효과를 재개합니다"
 
 msgctxt "Feature/&FlightResumeTitle"
 msgid "Resume Flight"
-msgstr ""
+msgstr "비행 재개"
 
 msgctxt "Feature/&FlightSuspendDescription"
 msgid "Suspends your flight effect so that you may walk on the ground"
-msgstr ""
+msgstr "지면을 걸을 수 있도록 비행 효과를 일시 정지합니다"
 
 msgctxt "Feature/&FlightSuspendTitle"
 msgid "Suspend Flight"
-msgstr ""
+msgstr "비행 일시 중단"
 
 msgctxt "Feature/&InvocationPoolAngelicFormChoiceLearnDescription"
 msgid "Select an Angelic Form."
-msgstr ""
+msgstr "천사 형태를 선택합니다."
 
 msgctxt "Feature/&InvocationPoolAngelicFormChoiceLearnTitle"
 msgid "Angelic Form"
-msgstr ""
+msgstr "천사의 형태"
 
 msgctxt "Feature/&InvocationPoolArcaneShotChoiceLearnDescription"
 msgid "Select an Arcane Shot."
-msgstr ""
+msgstr "비전 사격을 선택합니다."
 
 msgctxt "Feature/&InvocationPoolArcaneShotChoiceLearnTitle"
 msgid "Arcane Shot"
-msgstr ""
+msgstr "비전 사격"
 
 msgctxt "Feature/&InvocationPoolKindredSpiritChoiceLearnDescription"
 msgid "Select a Kindred Spirit for your Druid."
-msgstr ""
+msgstr "드루이드의 결속령을 선택합니다."
 
 msgctxt "Feature/&InvocationPoolKindredSpiritChoiceLearnTitle"
 msgid "Kindred Spirit"
-msgstr ""
+msgstr "결속령"
 
 msgctxt "Feature/&InvocationPoolMonkWeaponSpecializationLearnDescription"
 msgid "Select a new weapon type to become a monk weapon for you."
-msgstr ""
+msgstr "새로운 무기 유형을 선택해 몽크 무기로 사용할 수 있습니다."
 
 msgctxt "Feature/&InvocationPoolMonkWeaponSpecializationLearnTitle"
 msgid "Monk Weapon Specialization"
