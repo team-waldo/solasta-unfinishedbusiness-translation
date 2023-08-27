@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-25 17:23+0900\n"
-"PO-Revision-Date: 2023-08-20 05:53+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2023-08-27 13:53+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://waldo.team/projects/"
 "solasta-unfinished-business/settings/ko/>\n"
 "Language: ko\n"
@@ -165,13 +165,13 @@ msgid ""
 "gadgets or props"
 msgstr "<color=#1E81B0>CTRL</color> 클릭으로, 도구나 물체를 배치할 때 모든 확인을 건너뛰게 하기"
 
-#, fuzzy
 msgctxt "ModUi/&AllowHasteCasting"
 msgid ""
 "Allow casting spells with extra action from being Hasted <color=#F0DAA0>(you "
 "are still limited to 1 main action spell per round)</color>"
 msgstr ""
-"가속의 추가 행동으로 주문 시전을 허용 <color=#F0DAA0>(여전히 라운드당 주 행동 주문은 1개로 제한됨)</color>"
+"가속화 주문의 효과로 얻은 행동으로 주문 시전 가능 <color=#F0DAA0>(라운드당 주 행동으로 시전 가능한 주문은 1개로 "
+"제한)</color>"
 
 msgctxt "ModUi/&AllowHornsOnAllRaces"
 msgid ""
@@ -359,10 +359,9 @@ msgstr ""
 "<color=#D89555><b>3</b></color>: 추가 주사위 대신 총 피해량을 두 배로 합니다 "
 "<i><color=#F0DAA0>[(XdY+Z)*2]</color></i>"
 
-#, fuzzy
 msgctxt "ModUi/&Deities"
 msgid "<color=#F0DAA0>Deities</color>"
-msgstr "<color=#F0DAA0>신앙</color>"
+msgstr "<color=#F0DAA0>신격</color>"
 
 msgctxt "ModUi/&DisableAutoEquip"
 msgid "Disable auto-equip of items in inventory"
@@ -452,7 +451,6 @@ msgctxt "ModUi/&DungeonMakerMenu"
 msgid "Dungeon Maker"
 msgstr "던전 메이커"
 
-#, fuzzy
 msgctxt "ModUi/&EmpressGarbAppearance"
 msgid "<color=#D89555>Empress Garb</color> appearance"
 msgstr "<color=#D89555>황후 의복</color> 외형"
@@ -816,13 +814,12 @@ msgid ""
 "game...</color>"
 msgstr "<color=#C04040E0>멀티플레이 게임 중에는 진형을 변경할 수 없습니다...</color>"
 
-#, fuzzy
 msgctxt "ModUi/&FormationHelp1"
 msgid ""
 ". Use the numeric buttons to edit a given set <i><color=#F0DAA0>[consider "
 "enabling hotkeys under input]</color></i>"
 msgstr ""
-". 넘버 패드를 사용하여 단축키를 설정합니다 <i><color=#F0DAA0>[단축키 아래 입력 활성화 고려]</color></i>"
+". 숫자 버튼을 사용하여 단축키를 설정합니다 <i><color=#F0DAA0>[단축키 아래 입력 활성화 고려]</color></i>"
 
 msgctxt "ModUi/&FormationHelp2"
 msgid ". <b><color=#1E81B0>@</color></b> represent relative hero positions"
@@ -940,12 +937,10 @@ msgid ""
 "far]</color></i>"
 msgstr "<i><color=#F0DAA0>[40이 너무 멀리서 합류하는 적을 피하는 데 이상적입니다]</color></i>"
 
-#, fuzzy
 msgctxt "ModUi/&InitialChoices"
 msgid "<color=#F0DAA0>Creation:</color>"
-msgstr "<color=#F0DAA0>창조:</color>"
+msgstr "<color=#F0DAA0>생성:</color>"
 
-#, fuzzy
 msgctxt "ModUi/&Input"
 msgid "<color=#F0DAA0>Input:</color>"
 msgstr "<color=#F0DAA0>입력:</color>"
@@ -1071,7 +1066,6 @@ msgctxt "ModUi/&PrimedItems"
 msgid "Primed Items"
 msgstr "준비된 아이템"
 
-#, fuzzy
 msgctxt "ModUi/&Progression"
 msgid "<color=#F0DAA0>Progression:</color>"
 msgstr "<color=#F0DAA0>진행:</color>"
