@@ -12,7 +12,7 @@ def update_mod_repo():
     if not os.path.exists(MOD_REPO_NAME):
         subprocess.call(["git", "clone", MOD_REPO_URL])
     
-    subprocess.call(["git", "pull"], cwd=os.path.realpath(MOD_REPO_NAME))
+    subprocess.call(["git", "pull", "origin", "dev"], cwd=os.path.realpath(MOD_REPO_NAME))
 
 
 def read_translationfile(path: str) -> dict[str, str]:
