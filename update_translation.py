@@ -13,6 +13,8 @@ def update_mod_repo():
         subprocess.call(["git", "clone", MOD_REPO_URL])
     
     subprocess.call(["git", "pull", "origin", "dev"], cwd=os.path.realpath(MOD_REPO_NAME))
+    subprocess.call(["git", "switch", "dev"], cwd=os.path.realpath(MOD_REPO_NAME))
+    subprocess.call(["git", "branch", "-D", "kr-translation-update"])
 
 
 def read_translationfile(path: str) -> dict[str, str]:
