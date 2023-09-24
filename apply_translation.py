@@ -52,9 +52,11 @@ def main():
 
     english_dir = translations_dir / "en"
     output_dir = translations_dir / LANGCODE
+    
+    input_dir = output_dir # english_dir
 
-    for txt_path in output_dir.glob("**/*.txt"):
-        relpath = txt_path.relative_to(output_dir)
+    for txt_path in input_dir.glob("**/*.txt"):
+        relpath = txt_path.relative_to(input_dir)
         print(relpath)
 
         txt = read_txt(str(txt_path))
@@ -63,7 +65,7 @@ def main():
             if (tr := translation_data.get(item.key, None)) and tr.target:
                 item.value = tr.target
         
-        output_path = txt_path # output_dir / str(relpath).replace("-en", f"-{LANGCODE}")
+        output_path = output_dir / str(relpath).replace("-en", f"-{LANGCODE}")
         os.makedirs(output_path.parent, exist_ok=True)
 
         save_txt(str(output_path), txt)

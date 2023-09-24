@@ -5,6 +5,9 @@ from typing import List
 from translate.storage import pypo
 
 
+StrPath = str | Path
+
+
 class TranslationEntry:
     """
     Wrapper class to help working with translate.storage.pypo
@@ -53,7 +56,7 @@ class TranslationEntry:
 
 
 class TranslationFile(List[TranslationEntry]):
-    def __init__(self, path: str = None) -> None:
+    def __init__(self, path: StrPath | None = None) -> None:
         super().__init__()
         if not path:
             return
@@ -65,11 +68,11 @@ class TranslationFile(List[TranslationEntry]):
             entry = TranslationEntry.from_pounit(pounit)
             self.append(entry)
 
-    def export(self, path: str) -> None:
+    def export(self, path: StrPath) -> None:
         po = pypo.pofile(width=80)
         
         po.init_headers()
-        po.header().fuzzy = False
+        po.header().fuzzy = False # type: ignore
 
         for entry in self:
             po.addunit(entry.to_pounit())
@@ -91,18 +94,19 @@ class TranslationFile(List[TranslationEntry]):
                 entry.prev_source = old_entry.source
                 entry.fuzzy = True
                 updated = True
+            elif old_entry.fuzzy:
+                entry.prev_source = old_entry.prev_source
+                entry.fuzzy = True
             entry.target = old_entry.target
         return updated
 
 
-def load_translation(dir: str, exculde_fuzzy: bool=True) -> dict[str, TranslationEntry]:
+def load_translation(dir: StrPath, exculde_fuzzy: bool=True) -> dict[str, TranslationEntry]:
     result = {}
 
     for path in Path(dir).glob("**/*.po"):
         tf = TranslationFile(path)
         for entry in tf:
-            if not entry.target:
-                continue
             if entry.fuzzy and exculde_fuzzy:
                 continue
             result[entry.key] = entry

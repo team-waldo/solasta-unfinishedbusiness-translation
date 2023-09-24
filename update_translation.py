@@ -75,7 +75,7 @@ def main():
 
     templates = generate_templates()
 
-    translation_data = load_translation(os.path.join(TRANSLATION_DIRECTORY, LANGCODE))
+    translation_data = load_translation(os.path.join(TRANSLATION_DIRECTORY, LANGCODE), exculde_fuzzy=False)
 
     for filename in templates:
         update(filename, templates[filename], translation_data)
