@@ -24,7 +24,7 @@ def read_translationfile(path: str) -> dict[str, str]:
     result = {}
     for line in lines:
         k, v = line.split("=", maxsplit=1)
-        result[k] = v[:-1]
+        result[k] = v[:-1].replace("\\n", "\n")
     
     return result
 
@@ -76,6 +76,10 @@ def main():
     templates = generate_templates()
 
     translation_data = load_translation(os.path.join(TRANSLATION_DIRECTORY, LANGCODE), exculde_fuzzy=False)
+
+    for v in translation_data.values():
+        v.source = v.source.replace("\\n", "\n")
+        v.target = v.target.replace("\\n", "\n")
 
     for filename in templates:
         update(filename, templates[filename], translation_data)

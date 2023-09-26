@@ -48,6 +48,10 @@ def main():
 
     translation_data = load_translation(os.path.join(TRANSLATION_DIRECTORY, LANGCODE))
 
+    for value in translation_data.values():
+        value.target = value.target.replace("\n", "\\n")
+        value.source = value.source.replace("\n", "\\n")
+
     translations_dir = Path(MOD_REPO_NAME, MOD_REPO_NAME, "Translations")
 
     english_dir = translations_dir / "en"
